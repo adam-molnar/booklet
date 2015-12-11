@@ -3,5 +3,6 @@
   * st and nd to superscript
 === Back ===
   * Translators character error
-  * Break shop description line
-  * Break CC license line
+  * Break line @ we are native hungarians
+  * Break line @ (and support our cause)
+  * Break line @ CC license
