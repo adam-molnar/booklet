@@ -1,4 +1,4 @@
-text	{findWhat: "T0001"}	{changeTo: "das bevorstehende Jahr"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0001"}	{changeTo: "das kommende Jahr"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0002"}	{changeTo: "2015"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0003"}	{changeTo: "2016"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0004"}	{changeTo: "Jahresplanung Broschüre"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
@@ -37,14 +37,14 @@ text	{findWhat: "T0036"}	{changeTo: "Darum ging es in meinem letzten Jahr"}	{inc
 text	{findWhat: "T0037"}	{changeTo: "Welche Aspekte waren am entscheidungslastigsten in den Folgenden Bereichen*? Welche waren die wichtigsten Ereignisse? Fasse kurz zusammen."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0038"}	{changeTo: "familie, privatleben"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0039"}	{changeTo: "besitztümer  (zuhause, dinge)"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0040"}	{changeTo: "Freunde, Community"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0040"}	{changeTo: "freunde, community"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0041"}	{changeTo: "intellektuell"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0042"}	{changeTo: "finanzen"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0043"}	{changeTo: "arbeit, studium, beruf"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0044"}	{changeTo: "entspannung, hobbies, kreativität"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0045"}	{changeTo: "gesundheit, fitness"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0046"}	{changeTo: "emotional, spirituell"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0047"}	{changeTo: "Bevor-ich-Sterbe-Liste"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0047"}	{changeTo: "bevor-ich-sterbe-liste"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0048"}	{changeTo: "Die Aspekte sind von uns nicht definiert. Die Aspekte sind was Du für wichtig hältst."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0049"}	{changeTo: "Wenn du in diesem Jahr etwas erreicht hast, das du schon immer wolltest."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0050"}	{changeTo: "Das vergangene Jahr"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
@@ -114,14 +114,14 @@ text	{findWhat: "T0113"}	{changeTo: "Darum geht es in meinem folgenden Jahr"}	{i
 text	{findWhat: "T0114"}	{changeTo: "Definiere die entscheidenden Aspekte des kommenden Jahres in den folgenden Bereichen*. Welches sind die wichtigsten Ereignisse? Fasse kurz zusammen."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0115"}	{changeTo: "familie, privatleben"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0116"}	{changeTo: "besitztümer  (zuhause, dinge)"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0117"}	{changeTo: "Freunde, Community"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0117"}	{changeTo: "freunde, community"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0118"}	{changeTo: "intellektuell"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0119"}	{changeTo: "finanzen"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0120"}	{changeTo: "arbeit, studium, beruf"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0121"}	{changeTo: "entspannung, hobbies, kreativität"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0122"}	{changeTo: "gesundheit, fitness"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0123"}	{changeTo: "emotional, spirituell"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0124"}	{changeTo: "Bevor-ich-Sterbe-Liste"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0124"}	{changeTo: "bevor-ich-sterbe-liste"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0125"}	{changeTo: "Wir haben sie weiterhin nicht exakt definiert, versteh, was du verstehen sollst."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0126"}	{changeTo: "Da kannst du die Ziele auflisten, die du am Ende erreichen möchtest."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0127"}	{changeTo: "Das kommende Jahr"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
@@ -171,7 +171,7 @@ text	{findWhat: "T0170"}	{changeTo: "Prodziert von den Freiwilligen der YearComp
 text	{findWhat: "T0171"}	{changeTo: "http://yearcompass.com/de"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0172"}	{changeTo: "Falls du jemandem ein Heft zur Jahresplanung als Geschenk (und natürlich auch als Unterstützung) geben möchtest, folge diesem Link:"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0173"}	{changeTo: "http://yearcompass.com/shop"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0174"}	{changeTo: "\"Wir sind Ungaren und dieses Arbeitsbuch ist eine deutsche Übersetzung unserer originalen Arbeit. Solltest du irgendwelche Rechtschreibfehler, Fehler in der Grammatik oder falsche Formulierungen entdecken, so sei so nett und sende uns eine Nachricht über die obige Webseite.\""}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0174"}	{changeTo: "Wir sind Ungaren und dieses Arbeitsbuch ist eine deutsche Übersetzung unserer originalen Arbeit. Solltest du irgendwelche Rechtschreibfehler, Fehler in der Grammatik oder falsche Formulierungen entdecken, so sei so nett und sende uns eine Nachricht über die obige Webseite."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0175"}	{changeTo: "Diese Arbeit ist unter der Creative Commons Namensnennung - Nicht-kommerziell - Weitergabe unter gleichen Bedingungen 4.0 International lizenziert."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0176"}	{changeTo: "Wir merken es uns für dich"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0177"}	{changeTo: "Deine Antworten sind kein Rufen in die Leere. Wir merken sie uns für dich. Aber um das tun zu können, müssen wir uns an dich erinnern. Bitte logge dich ein."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
@@ -184,7 +184,7 @@ text	{findWhat: "T0183"}	{changeTo: "JahresKompass"}	{includeFootnotes:true, inc
 text	{findWhat: "T0184"}	{changeTo: "Übersetzen:"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0185"}	{changeTo: "Aiko Hollmann, Christian Mauerer, Helga Kőnig, Michael Freitag, Mich Wyser, Zsófia Bodó"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0186"}	{changeTo: "Deutsch"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0187"}	{changeTo: "Bevor-ich-Sterbe-Liste"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0187"}	{changeTo: "bevor-ich-sterbe-liste"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0188"}	{changeTo: "Welcher Aspekt war für dich in den folgenden Bereichen des vergangenen Jahres am wichtigsten? Welche Vorkommnisse oder Ereignisse stachen am meisten heraus? Fasse kurz zusammen."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0189"}	{changeTo: "Ein Buch wurde über dein vergangenes Jahr geschrieben. Schreib seinen Titel auf."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0190"}	{changeTo: "Definiere die wichtigsten Aspekte des nächsten Jahres für die folgenden Bereiche. Welche Ereignisse werden die Wichtigsten sein? Fasse kurz zusammen."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}

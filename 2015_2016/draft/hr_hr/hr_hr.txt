@@ -30,7 +30,7 @@ text	{findWhat: "T0029"}	{changeTo: "Pusti sva očekivanja."}	{includeFootnotes:
 text	{findWhat: "T0030"}	{changeTo: "Počni kada si spreman / spremna."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0031"}	{changeTo: "Prošla godina"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0032"}	{changeTo: "Prolaženje kroz tvoj kalendar"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0033"}	{changeTo: "Prođi kroz svoj prošlogodišnji kalendar tjedan po tjedan. Ako vidiš važan događaj, susret ili podsjetnik, zapiši ga ovdje dolje."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0033"}	{changeTo: "Prođi kroz svoj prošlogodišnji kalendar tjedan po tjedan. Ako vidiš važan događaj, susret ili podsjetnik, zapiši ga ovdje."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0034"}	{changeTo: "Prođi kroz svoj prošlogodišnji kalendar tjedan po tjedan. Ako vidiš važan događaj, susret ili podsjetnik, zabilježi ga ovdje."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0035"}	{changeTo: "Prošla godina"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0036"}	{changeTo: "Ovo je sadržaj moje prošle godine"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
@@ -68,7 +68,7 @@ text	{findWhat: "T0067"}	{changeTo: "Najbolji trenutci"}	{includeFootnotes:true,
 text	{findWhat: "T0068"}	{changeTo: "Opiši najljepše, najsretnije i najdojmljivije događaje prošle godine. Nacrtaj ih na ovaj list. Kako si se osjećao/la? Tko je bio s tobom? Što si radio/la? Kojih se mirisa, zvukova ili okusa sjećaš?"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0069"}	{changeTo: "Opiši najljepše, najsretnije i najdojmljivije događaje prošle godine. Nacrtaj ih na ovaj list. Kako si se osjećao/la? Tko je bio s tobom? Što si radio/la? Kojih se mirisa, zvukova ili okusa sjećaš?"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0070"}	{changeTo: "Prošla godina"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0071"}	{changeTo: "Moja tri najveća uspjeha."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0071"}	{changeTo: "Moja tri najveća uspjeha"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0072"}	{changeTo: "Ovdje navedi svoja tri najveća uspjeha"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0073"}	{changeTo: "Što si učinio/la da ih postigneš?"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0074"}	{changeTo: "Tko ti je pomogao da ih postigneš? Kako?"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
