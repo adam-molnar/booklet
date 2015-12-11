@@ -48,7 +48,6 @@ function main(){
 function exportToPdf(currentDocument) {
     // Set output file name
     var PDFFileName = File(currentDocument.fullName).path + '/../../final/' + trimTimeStamp(File(currentDocument.fullName).fileName()) + ".pdf";
-    alert(PDFFileName)
     // Set PDF Preset
     var preset = app.pdfExportPresets.item("YCPDFPreset");
     // Export PDF
