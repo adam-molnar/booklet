@@ -39,10 +39,12 @@ function main(){
     
     // Execute script only if there is an open document
     if(app.documents.length > 0){
+        // Get current document
+        var origDocumentPath = String(app.activeDocument.fullName);
         // Get the translation file and the language code
         fileInfo = getTranslationFile();
         // Create the new copy from the file
-        makeCopy(fileInfo.langCode);
+        makeCopy(origDocumentPath, fileInfo.langCode);
         // Get current document
         currentDocument = app.activeDocument;
         // Find and replace tokens
@@ -63,28 +65,20 @@ function main(){
  * @return {} Makes a copy from the currently active file
  * ----------------------------------------------------------------------------
  */
-function makeCopy(langCode) {
-    // Get current timestamp
+function makeCopy(origDocumentPath, langCode) {
+    // Get current timeStamp
     var now         = new Date();
     var timeStamp   = now.getFullYear() + "-" +
                       padNumber(now.getMonth() + 1, 2) + "-" +
                       padNumber(now.getDate(), 2) + "-" +
                       padNumber(now.getHours(), 2) + "-" +
                       padNumber(now.getMinutes(), 2);
-    // Get current path and set the new file and folder paths
-    var thisFile    = new File($.fileName);
-    var basePath    = thisFile.path;
-    var folderPath  = basePath + "/../draft/" + langCode;
-    var filePath    = folderPath + "/YearCompass_booklet_" + langCode + "_" + timeStamp + ".indd";
 
-    // Create new folder if not exists
-    var folder = Folder(folderPath);
-    if(!folder.exists) {
-        folder.create();
-    }
+    // Get current path and set the new file and folder paths
+    var newFilePath = origDocumentPath.replace('base', timeStamp);
 
     // Save the new document
-    app.activeDocument.save(new File(filePath));
+    app.activeDocument.save(new File(newFilePath));
 }
 
 /**
