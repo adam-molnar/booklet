@@ -1,3 +1,7 @@
+=== Cover ===
+  * Break title into 3 lines
+=== Page 19 ===
+  * Break line before #s
 === Back ===
   * Break line @ we are native hungarians
   * Break line @ (and support our cause)
