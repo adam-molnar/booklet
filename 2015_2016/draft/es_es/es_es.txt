@@ -4,8 +4,7 @@ text	{findWhat: "T0003"}	{changeTo: "2016"}	{includeFootnotes:true, includeMaste
 text	{findWhat: "T0004"}	{changeTo: "Cuaderno para planear el año"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0005"}	{changeTo: "¿Qué es esto?"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0006"}	{changeTo: "Este cuaderno te ayudará a repasar el año pasado y a planear el año que tienes por delante."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0007"}	{changeTo: "YearCompass te ayudará a repasar el año pasado y a planear el año que tienes por
-delante."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0007"}	{changeTo: "YearCompass te ayudará a repasar el año pasado y a planear el año que tienes por delante."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0008"}	{changeTo: "¿Por qué es bueno para mí?"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0009"}	{changeTo: "Planear el año es una buena costumbre. Te puede ayudar a reconocer mejor tus éxitos y tristezas, y ver la cantidad de cosas que suceden en un año. Aprender del pasado ayuda a planear el futuro, para no caer en las mismas trampas y para coger las riendas de tu vida."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0010"}	{changeTo: "¿Qué necesito?"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
