@@ -62,7 +62,7 @@ text	{findWhat: "T0061"}	{changeTo: "Kiuj tri homoj influis vin pleje?"}	{includ
 text	{findWhat: "T0062"}	{changeTo: "Kiujn tri homojn vi influis pleje?"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0063"}	{changeTo: "Kion vi ne sukcesis plenumi?"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0064"}	{changeTo: "Kio estas la plej bona afero, kion vi malkovris pri vi mem?"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0065"}	{changeTo: "Pro kio vi estas plej dankema?"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0065"}	{changeTo: "Pro kio vi estas la plej dankema?"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0066"}	{changeTo: "La pasinta jaro"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0067"}	{changeTo: "La plej belaj momentoj"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0068"}	{changeTo: "Rememoru viajn plej belajn, ĝojplenajn kaj memorindajn momentojn de la pasinta jaro. Desegnu ilin sur tiun ĉi paperon. Kion vi sentis? Kiu estis kun vi dum tiuj momentoj? Kion vi faris? Kiajn odorojn vi rememoras?"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
@@ -148,7 +148,7 @@ text	{findWhat: "T0147"}	{changeTo: "La sekva jaro"}	{includeFootnotes:true, inc
 text	{findWhat: "T0148"}	{changeTo: "Ses frazoj pri mia sekva jaro"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0149"}	{changeTo: "Ĉi jare mi ne plu prokrastos..."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0150"}	{changeTo: "Ĉi-jare mi estos plej forta pri..."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0151"}	{changeTo: "Tiun ĉi jaron mi estos plej brava, kiam mi..."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0151"}	{changeTo: "Tiun ĉi jaron mi estos la plej brava, kiam mi..."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0152"}	{changeTo: "Ĉi jare mi diros jes, se..."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0153"}	{changeTo: "Mi konsilos al mi ĉi-jare..."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0154"}	{changeTo: "Tiu ĉi jaro estos speciala por mi, ĉar..."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
@@ -182,7 +182,7 @@ text	{findWhat: "T0181"}	{changeTo: "Ajna komento por ni"}	{includeFootnotes:tru
 text	{findWhat: "T0182"}	{changeTo: "Elektu lingvon"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0183"}	{changeTo: "JarKompaso"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0184"}	{changeTo: "Tradukantoj:"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0185"}	{changeTo: "Besenyei Eszter, Bagó Sarolta"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0185"}	{changeTo: "Stela Besenyei, korektis: Saci Bagó, Anna Besenyei kaj Tobiasz Kubisiowski"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0186"}	{changeTo: "Esperanto"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0187"}	{changeTo: "revlisto"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0188"}	{changeTo: "Kiuj aspektoj estis la plej gravaj por vi dum la pasinta jaro en tiuj ĉi kampoj? Kiuj okazintaĵoj aŭ eventoj estis la plej gravaj? Resumu koncize."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
