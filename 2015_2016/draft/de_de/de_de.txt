@@ -182,7 +182,7 @@ text	{findWhat: "T0181"}	{changeTo: "Noch etwas, was du uns erzählen möchtest"
 text	{findWhat: "T0182"}	{changeTo: "Sprache auswählen"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0183"}	{changeTo: "JahresKompass"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0184"}	{changeTo: "Übersetzen:"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0185"}	{changeTo: "Aiko Hollmann, Christian Mauerer, Helga Kőnig, Michael Freitag, Mich Wyser, Zsófia Bodó"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0185"}	{changeTo: "Aiko Hollmann, Christian Mauerer, Helga Kőnig, Michael Freitag, Mich Wyser, Zsófia Bodó, Nepomuk Leutschacher"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0186"}	{changeTo: "Deutsch"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0187"}	{changeTo: "bevor-ich-sterbe-liste"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0188"}	{changeTo: "Welcher Aspekt war für dich in den folgenden Bereichen des vergangenen Jahres am wichtigsten? Welche Vorkommnisse oder Ereignisse stachen am meisten heraus? Fasse kurz zusammen."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
