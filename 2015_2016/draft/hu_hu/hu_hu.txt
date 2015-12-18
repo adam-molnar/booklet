@@ -212,3 +212,4 @@ text	{findWhat: "T0211"}	{changeTo: "Fordítsd le a saját nyelvedre"}	{includeF
 text	{findWhat: "T0212"}	{changeTo: "vagy"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0213"}	{changeTo: "küldj visszajelzést"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0214"}	{changeTo: "Vigyél a YearCompass.com oldalra"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0215"}	{changeTo: "Letöltöm a válaszaim nyomtatható formában (PDF)"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
