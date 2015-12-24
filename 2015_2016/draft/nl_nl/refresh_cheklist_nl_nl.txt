@@ -1,6 +1,11 @@
+=== Page 5 and 15 ===
+  * fix character (privé)
+=== Page 10 ===
+  * Footer character fix?
 === Page 19 ===
   * Break line before #s
 === Back ===
+  * Fix translators character (é)
   * Break line @ we are native hungarians
   * Break line @ (and support our cause)
   * Break line @ CC license
