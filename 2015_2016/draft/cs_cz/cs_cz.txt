@@ -1,16 +1,16 @@
-text	{findWhat: "T0001"}	{changeTo: "rok máš před sebou"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0001"}	{changeTo: "rok před tebou"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0002"}	{changeTo: "2015"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0003"}	{changeTo: "2016"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0004"}	{changeTo: "Plánovač roku"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0005"}	{changeTo: "Co to je?"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0006"}	{changeTo: "Plánovač roku Ti pomůže uzavřít minulý rok a naplánovat rok, který máš před sebou."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0007"}	{changeTo: "YearCompass will help you look back over the past year and plan the year ahead of you."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0007"}	{changeTo: "Kompas roku"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0008"}	{changeTo: "Co z toho budu mít?"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0009"}	{changeTo: "Plánování roku je dobrým zvykem. Díky němu si uvědomíš své úspěchy, smutky a překvapí Tě, co všechno se může stát za jeden rok. Svou budoucnost si můžeš naplánovat na základě ponaučení vyplývajících z minulosti, abys neopakoval/a stejné chyby a svůj osud držel/a ve svých rukou. "}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0010"}	{changeTo: "Co budu potřebovat?"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0011"}	{changeTo: "1. možnost (osamotě)"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0012"}	{changeTo: "alespoň hodina klidu"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0013"}	{changeTo: "at least three hours of uninterrupted time (to look back too)"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0011"}	{changeTo: "1. možnost (o samotě)"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0012"}	{changeTo: "alespoň hodina klidu (na naplánování příštího roku)"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0013"}	{changeTo: "alespoň tři hodiny klidu (na zhodnocení předchozího roku)"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0014"}	{changeTo: "kalendář minulého roku"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0015"}	{changeTo: "tento vytištěný plánovač"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0016"}	{changeTo: "upřímnost a otevřenost"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
@@ -24,40 +24,40 @@ text	{findWhat: "T0023"}	{changeTo: "upřímnost a otevřenost"}	{includeFootnot
 text	{findWhat: "T0024"}	{changeTo: "oblíbenou propisku"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0025"}	{changeTo: "Připrav se"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0026"}	{changeTo: "Buď přítomen/na."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0027"}	{changeTo: "Zapni si tichou hudbu."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0027"}	{changeTo: "Zapni si relaxační hudbu."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0028"}	{changeTo: "Připrav si teplý nápoj."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0029"}	{changeTo: "Pusť všechny své předsudky."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0029"}	{changeTo: "Opusť všechny své očekávání."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0030"}	{changeTo: "Jsi-li připaven/a, můžeme začít."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0031"}	{changeTo: "Minulý rok"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0032"}	{changeTo: "Listování v kalendáři"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0033"}	{changeTo: "\"Vem si do ruky kalendář z minulého roku a prolistuj si ho týden po týdnu. Vidíš-li v něm nějakou důležitou událost, setkání, úkol, poznamenej ho na tuto stranu\""}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0034"}	{changeTo: "Go through last year's calendar week by week. If you see an important event, family gathering, friendly get-together or a significant project, write it down here."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0034"}	{changeTo: "Projdi si kalendář minulého roku týden po týdnu. Poznamenej si všechny důležité události, přátelská či rodinná setkání nebo důležité úkoly."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0035"}	{changeTo: "Minulý rok"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0036"}	{changeTo: "Můj minulý rok byl o..."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0037"}	{changeTo: "Co pro Tebe bylo rozhodující v minulém roce v jednotlivých životních oblastech níže*? Které události byly nejdůležitější? Zkus to shrnout v několika slovech."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0038"}	{changeTo: "rodina, osobní život"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0039"}	{changeTo: "životní podmínky (byt, předměty)"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0040"}	{changeTo: "friends, community"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0039"}	{changeTo: "majetek (byt, předměty)"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0040"}	{changeTo: "přátelé, komunity"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0041"}	{changeTo: "mentálně, duševně"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0042"}	{changeTo: "finančně"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0043"}	{changeTo: "práce, škola, profese"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0044"}	{changeTo: "odpočinek, tvořivost, volný čas"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0045"}	{changeTo: "zdraví, sport"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0046"}	{changeTo: "citově, duchovně"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0047"}	{changeTo: "bucket list"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0047"}	{changeTo: "co chceš v životě ještě dokázat"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0048"}	{changeTo: " Pod každou životní oblastí se rozumí přesně to, co znamená pro Tebe. Schválně není uvedena definice."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0049"}	{changeTo: "Pokud se Ti podařilo dosáhnout něčeho, čeho jsi vždy chtěl/a."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0050"}	{changeTo: "Minulý rok"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0051"}	{changeTo: "Šest vět o mém minulém roce"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0052"}	{changeTo: "Nejmoudřejší rozhodnutí, které jsem učinil/a..."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0053"}	{changeTo: "Největší ponaučení, které jsem si osvojil/a..."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0053"}	{changeTo: "Největší ponaučení..."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0054"}	{changeTo: "Největší risk, který jsem učinil/a..."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0055"}	{changeTo: "Největší překvapení minulého roku..."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0056"}	{changeTo: "Největší služba, kterou jsem poskytnul/a..."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0056"}	{changeTo: "Nejdůležitější věc, co jsem udělal/a pro druhé..."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0057"}	{changeTo: "Největší věc, kterou jsem dokončil/a..."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0058"}	{changeTo: "Minulý rok"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0059"}	{changeTo: "Šest otázek o mém minulém roce"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0060"}	{changeTo: "Na co jsi nejhrdší?"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0060"}	{changeTo: "Na co jsi nejvíc hrdý?"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0061"}	{changeTo: "Které tři osoby Tě nejvíce ovlivnily?"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0062"}	{changeTo: "Které tři osoby jsi nejvíce ovlivnil/a Ty?"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0063"}	{changeTo: "Co se Ti nepodařilo dokončit?"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
@@ -65,8 +65,8 @@ text	{findWhat: "T0064"}	{changeTo: "Co je ta nejlepší věc, kterou jsi v sob�
 text	{findWhat: "T0065"}	{changeTo: "Za co jsi nejvděčnější?"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0066"}	{changeTo: "Minulý rok"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0067"}	{changeTo: "Nejkrásnější momenty"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0068"}	{changeTo: "Vzpomeň si na nejkrásnější, nejšťastnější, nezapomenutelné momenty minulého roku. Nakresli je na tuto stranu. Co jsi cítil/a? Kdo s Tebou byl? Co jste dělali? Jaké vůně se Ti vybují? Jaké city jsi v sobě měl/a? "}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0069"}	{changeTo: "Describe the greatest and most memorable, joyful moments from last year. How did you feel? Who was there with you? What were you doing? What kind of smells, sounds or tastes do you remember?"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0068"}	{changeTo: "Vzpomeň si na nejkrásnější, nejšťastnější, nezapomenutelné momenty minulého roku. Nakresli je na tuto stranu. Co jsi cítil/a? Kdo s Tebou byl? Co jste dělali? Jaké vůně, zvuky, vjemy se Ti vybavují?"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0069"}	{changeTo: "Popis nejkrásnější, nejšťastnější, nezapomenutelné momenty minulého roku. Co jsi cítil/a? Kdo s Tebou byl? Co jste dělali? Jaké vůně, zvuky, vjemy se Ti vybavují?"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0070"}	{changeTo: "Minulý rok"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0071"}	{changeTo: "Mé tři největší úspěchy"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0072"}	{changeTo: "Vyjmenuj zde své tři největší úspěchy."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
@@ -78,57 +78,57 @@ text	{findWhat: "T0077"}	{changeTo: "Kdo a jak Ti pomohl v jejich překonání?"
 text	{findWhat: "T0078"}	{changeTo: "Co ses při jejich překonání naučil/a o sobě?"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0079"}	{changeTo: "Minulý rok"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0080"}	{changeTo: "Odpuštění"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0081"}	{changeTo: "Stalo se něco v minulém roce, za co musíš komukoliv odpustit? Ublížil Ti nějaký čin, slovo? Nebo se kvůli něčemu zlobíš na sebe? Napiš si to na tuto stranu a udělej pro sebe něco dobrého, odpusť sobě i druhým.*"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0082"}	{changeTo: "Did anything happen during the past year that still needs to be forgiven? Deeds or words that made you feel bad? Or are you angry with yourself? Note it down here. Do good for yourself and forgive."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0081"}	{changeTo: "Stalo se něco v minulém roce, za co musíš komukoliv odpustit? Ublížil Ti nějaký čin, slovo? Nebo se kvůli něčemu zlobíš na sebe? Napiš si to na tuto stranu. Udělej pro sebe něco dobrého a odpusť sobě i druhým.*"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0082"}	{changeTo: "Stalo se něco v minulém roce, za co musíš komukoliv odpustit? Ublížil Ti nějaký čin, slovo? Nebo se kvůli něčemu zlobíš na sebe? Napiš si to na tuto stranu. Udělej pro sebe něco dobrého a odpusť sobě i druhým.*"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0083"}	{changeTo: "I když se na to necítíš připraven/a, napiš to. I to dělá často divy."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0084"}	{changeTo: "Minulý rok"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0085"}	{changeTo: "Pustit to"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0086"}	{changeTo: "Co ještě musíš vyslovit, abys uzavřel/a rok, který máš za sebou? Co ještě musíš pustit, aby ses mohl/a dát do dalšího roku? Piš nebo kesli, pak se na ně podívej a pusť je všechny."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0087"}	{changeTo: "Is there anything else you need to say? Is there anything you must let go of before you can start your next year? Think about it and let it all go."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0085"}	{changeTo: "Nech to být."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0086"}	{changeTo: "Máš ještě něco v mysli, co ještě musíš vypustit, aby jsi mohl/a v klidu začít další rok? Zapiš si tyto věci nebo je nakresli, pak se na ně podívej a nech je všechny v minulém roce."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0087"}	{changeTo: "Máš ještě něco v mysli, co ještě musíš vypustit, aby jsi mohl/a v klidu začít další rok? Zapiš si tyto věci nebo je nakresli, pak se na ně podívej a nech je všechny v minulém roce."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0088"}	{changeTo: "Minulý rok"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0089"}	{changeTo: "Můj minolý rok ve třech slovech"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0089"}	{changeTo: "Můj minulý rok ve třech slovech"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0090"}	{changeTo: "Vyber tři slova svého minulého roku."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0091"}	{changeTo: "Kniha mého minulého roku"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0092"}	{changeTo: "Vydává se kniha o tvém minulém roce*. Napiš sem její titul."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0093"}	{changeTo: "Promiň, třeba se mýlíme a není to kniha, ale film. "}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0094"}	{changeTo: "Rozloučení s minulým rokem"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0095"}	{changeTo: "Pokud v Tobě ještě něco zůstalo, co bys ráda napsal/a nebo by ses s někým rozloučil/a, udělej to teď."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0096"}	{changeTo: "If there is anything else left that you would like to take note of, or there is anybody you would like to say goodbye to, do it now."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0096"}	{changeTo: "Pokud v Tobě ještě něco zůstalo, co bys ráda napsal/a nebo by ses s někým rozloučil/a, udělej to teď."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0097"}	{changeTo: "Minulý rok"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0098"}	{changeTo: "Uzavřel/a jsi svůj minulý rok."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0099"}	{changeTo: "Dokončil/a jsi uzavření svého minulého roku. "}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0100"}	{changeTo: "Hluboký nádech."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0101"}	{changeTo: "Odpočiň si."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0102"}	{changeTo: "If you want to tell others about this, take a picture while filling out the booklet, and share it."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0103"}	{changeTo: "Feel free to use the hashtags:"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0102"}	{changeTo: "Jestli chceš, řekni o tom i ostatním, abys jim udělal/a také radost. Vyfoť se při vyplňování plánovače a sdílej. "}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0103"}	{changeTo: "Použij klidně tyto hashtagy:"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0104"}	{changeTo: "#kompasroku #yearcompass"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0105"}	{changeTo: "Minulý rok"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0106"}	{changeTo: "Rok máš před sebou"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0106"}	{changeTo: "Rok před tebou"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0107"}	{changeTo: "2016"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0108"}	{changeTo: "Rok máš před sebou"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0108"}	{changeTo: "Rok před tebou"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0109"}	{changeTo: "Sni ve velkém"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0110"}	{changeTo: "Jak vypadá rok před tebou? Co všechno se může stát v ideálním případě? Kvůli čemu bude skvělý? Piš, kresli, pusť všechny své předsudky a sni odvážně."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0111"}	{changeTo: "What does the year ahead of you look like? What will happen in an ideal case? Why will it be great? Let go of your expectations and dare to dream."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0112"}	{changeTo: "Rok máš před sebou"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0110"}	{changeTo: "Jak vypadá rok před tebou? Co všechno se může stát v ideálním případě? Kvůli čemu bude skvělý? Piš, kresli, zapomeň na všechny své očekávání a sni odvážně."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0111"}	{changeTo: "Jak vypadá rok před tebou? Co všechno se může stát v ideálním případě? Kvůli čemu bude skvělý? Piš, kresli, zapomeň na všechny své očekávání a sni odvážně."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0112"}	{changeTo: "Rok před tebou"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0113"}	{changeTo: "Můj následující rok bude o"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0114"}	{changeTo: "Co  pro Tebe bude rozhodující v jednotlivých oblastech v příštím roce*? Které události budou nejdůležitější? Zkus shrnout v několika slovech."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0114"}	{changeTo: "Co pro Tebe bude rozhodující v jednotlivých oblastech v příštím roce*? Které události budou nejdůležitější? Zkus shrnout v několika slovech."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0115"}	{changeTo: "rodina, osobní život"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0116"}	{changeTo: "životní podmínky (byt, předměty)"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0117"}	{changeTo: "friends, community"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0116"}	{changeTo: "majetek (byt, předměty)"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0117"}	{changeTo: "přátelé, komunity"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0118"}	{changeTo: "mentálně, duševně"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0119"}	{changeTo: "finančně"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0120"}	{changeTo: "práce, škola, profese"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0121"}	{changeTo: "odpočinek, tvořivost, volný čas"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0122"}	{changeTo: "zdraví, sport"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0123"}	{changeTo: "citově, duchovně"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0124"}	{changeTo: "bucket list"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0125"}	{changeTo: "Ani nadál nemáme přesné definice, chápej to tak, jak chceš."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0124"}	{changeTo: "co chceš v životě ještě dokázat"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0125"}	{changeTo: "Ani nadále nemáme přesné definice, chápej to tak, jak chceš."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0126"}	{changeTo: "Sem přijdou plány, kterých chceš jednoho dne dosáhnout."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0127"}	{changeTo: "Rok máš před sebou"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0127"}	{changeTo: "Rok před tebou"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0128"}	{changeTo: "Můj následující rok bude o"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0129"}	{changeTo: "Předchozí stranu si klidně vystřihni, vylep si ji ve svém pokoji nebo upevni na ledničku, popřípadě poskládej a dej si ji do peněženky."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0130"}	{changeTo: "Podstatné je, abys ji měl/a na místě, kde si ji čas od času přečteš, můžeš něco udělat pro uskutečnění vyjmenovaných plánů a můžeš se radovat při jejich splnění."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0131"}	{changeTo: "Rok máš před sebou"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0131"}	{changeTo: "Rok před tebou"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0132"}	{changeTo: "Magické trojky příštího roku"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0133"}	{changeTo: "Tyto tři vlastnosti v sobě budu mít rád/a."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0134"}	{changeTo: "Tyto tři věci jsou už zralé na to, abych je pustil/a."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
@@ -136,7 +136,7 @@ text	{findWhat: "T0135"}	{changeTo: "Těchto tří věcí bych chtěl/a nejvíce
 text	{findWhat: "T0136"}	{changeTo: "Na tyto tři osoby se můžu spolehnout v nejhorších."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0137"}	{changeTo: "Tyto tři nové věci se odvážím objevit."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0138"}	{changeTo: "Na tyto tři věci budu mít sílu říct ne."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0139"}	{changeTo: "Rok máš před sebou"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0139"}	{changeTo: "Rok před tebou"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0140"}	{changeTo: "Magické trojky příštího roku"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0141"}	{changeTo: "Těmito třemi věcmi vytvořím útulnější prostředí ve svém domově."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0142"}	{changeTo: "Tyto tři věci udělám každé ráno."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
@@ -144,72 +144,72 @@ text	{findWhat: "T0143"}	{changeTo: "Těmito třemi věcmi budu pravidelně hý�
 text	{findWhat: "T0144"}	{changeTo: "Tyto tři místa navštívím."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0145"}	{changeTo: "Těmito třemi věcmi upevním svůj vztah s milovanými lidmi v mém životě."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0146"}	{changeTo: "Těmito třemi dárky odměním své úspěchy."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0147"}	{changeTo: "Rok máš před sebou"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0147"}	{changeTo: "Rok před tebou"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0148"}	{changeTo: "Šest vět o mém následujícím roce"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0149"}	{changeTo: "Tento rok nebudu dál odkládat..."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0149"}	{changeTo: "Tento rok nebudu dál prokrastinovat tím, že..."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0150"}	{changeTo: "Tento rok budu největší sílu čerpat z..."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0151"}	{changeTo: "Nejodvážnější v tomto roce budu, když..."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0152"}	{changeTo: "Tento rok řeknu ano, když..."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0153"}	{changeTo: "Na tento rok si dám následující radu..."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0154"}	{changeTo: "Tento rok bude jedinečný, protože..."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0155"}	{changeTo: "Rok máš před sebou"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0156"}	{changeTo: "Moje slovo následujícího roku"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0154"}	{changeTo: "Tento rok pro mě bude jedinečný, protože..."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0155"}	{changeTo: "Rok před tebou"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0156"}	{changeTo: "Moje slovo pro následující rok bude"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0157"}	{changeTo: "Vyber si slovo na následujcí rok, které ti dá sílu, aby ses nevzdal/a svých snů. Které Tě podrží, když je nejhůř a potřebuješ energii. Toto slovo bude charakterizovat následující rok."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0158"}	{changeTo: "Tajné přání"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0159"}	{changeTo: "Nech pracovat volně svou fantazii. Jaké tajné přání máš v následujícím roce?"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0160"}	{changeTo: "Rok máš před sebou"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0160"}	{changeTo: "Rok před tebou"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0161"}	{changeTo: "Věřím, že tento rok se může všechno povést"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0162"}	{changeTo: "Ve dne:"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0163"}	{changeTo: "podpis"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0164"}	{changeTo: "Dokončil/a jsi plánování."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0165"}	{changeTo: "Dvě drobnosti na konec:"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0166"}	{changeTo: "Nezapomeň vystřihnout a upevnit na viditelné místo stranu 17."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0167"}	{changeTo: "If you've taken a photo while filling out the booklet feel free to use the hashtags:"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0167"}	{changeTo: "Jestli se vyfotíš při vyplňování plánovače, použij klidně následující hashtagy:"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0168"}	{changeTo: "#kompasroku #yearcompass"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0169"}	{changeTo: "Rok máš před sebou"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0169"}	{changeTo: "Rok před tebou"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0170"}	{changeTo: "Bylo vyrobeno spolupracovníky YearCompass a dobrovolníky Invisible University International."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0171"}	{changeTo: "http://yearcompass.com/cz"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0172"}	{changeTo: "If you'd like to give somebody a Year planning booklet as a gift (and support our cause) follow this link:"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0172"}	{changeTo: "Pokud bys rád daroval tento plánovací sešit někomu jako dárek (a podpořil nás), klikni na tento link:"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0173"}	{changeTo: "http://yearcompass.com/shop"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0174"}	{changeTo: "Jsme rodilí mluvčí maďarštiny a tento plánovač je překladem našeho originálního plánovače. Jestli objevíš nějaké gramatické chyby, překlepy nebo neexistující výrazy, napiš nám o tom přes stránku výše."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0175"}	{changeTo: "Obsah je chráněn licencí Creative Commons Uveďte původ-Neužívejte dílo komerčně-Zachovejte licenci 4.0 Mezinárodní."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0176"}	{changeTo: "We'll remember it for you"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0177"}	{changeTo: "Your answers aren't just a scream into the void. We keep them for you. But in order to do so, we need to be able to remember you. Please log in."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0178"}	{changeTo: "Share your achievement"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0179"}	{changeTo: "Help us make YearCompass better."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0180"}	{changeTo: "Please rate the questions you answered"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0181"}	{changeTo: "Anything else you would like to tell us"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0182"}	{changeTo: "Select language"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0183"}	{changeTo: "YearCompass"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0184"}	{changeTo: "Translators:"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0185"}	{changeTo: "Veres Katalin"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0186"}	{changeTo: "English"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0187"}	{changeTo: "bucket list"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0188"}	{changeTo: "What aspect was the most important to you in the following areas during last year? Which happenings or events were the most significant? Summarize briefly."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0189"}	{changeTo: "A book was made about your past year. Write down its title."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0190"}	{changeTo: "Define the most important aspects of next year in the following areas. Which events will be the most important? Summarize briefly."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0191"}	{changeTo: "YearCompass"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0192"}	{changeTo: "Finish"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0193"}	{changeTo: "Logout"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0194"}	{changeTo: "Next year"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0195"}	{changeTo: "Sign in to continue"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0196"}	{changeTo: "Save and exit"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0197"}	{changeTo: "Feedback"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0175"}	{changeTo: "Obsah je chráněn licencí Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0176"}	{changeTo: "Uložíme si ho pro tebe"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0177"}	{changeTo: "Tvoje odpovědi jsou pro nás důležité a proto je pro tebe uchováme. Abychom si je mohli zapamatovat, potřebujeme si také pamatovat tebe. Proto se prosím přihlaš."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0178"}	{changeTo: "Sdílej svoje úspěchy"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0179"}	{changeTo: "Pomoc nám vylepšit Kompas roku."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0180"}	{changeTo: "Prosím ohodnoť své odpovědi"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0181"}	{changeTo: "Je ještě něco dalšího, co by si nám rád řekl"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0182"}	{changeTo: "Vyber jazyk"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0183"}	{changeTo: "Kompas roku"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0184"}	{changeTo: "Překladatelé:"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0185"}	{changeTo: "Veres Katalin, Lukáš Červenka"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0186"}	{changeTo: "čeština"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0187"}	{changeTo: "co chceš v životě ještě dokázat"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0188"}	{changeTo: "Co pro tebe bylo nejdůležitější minulý rok v následujích oblastech? Které události na tebe měli největší dopad? Stručně shrň."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0189"}	{changeTo: "Byla napsána kniha o tvém minulém roce. Jaký by měla název?"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0190"}	{changeTo: "Jaké budou nejdůležitější věci v příštím roce v následujících oblastech. Které události budou nejdůležitější? Stručně shrň."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0191"}	{changeTo: "Kompas roku"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0192"}	{changeTo: "Dokonči"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0193"}	{changeTo: "Odhlaš se"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0194"}	{changeTo: "Příští rok"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0195"}	{changeTo: "Pro pokračování se přihlaš"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0196"}	{changeTo: "Ulož a ukonči"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0197"}	{changeTo: "Zpětná vazba"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0198"}	{changeTo: "OK"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0199"}	{changeTo: "#close2015"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0200"}	{changeTo: "#plan2016"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0201"}	{changeTo: "your feedback has been saved"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0202"}	{changeTo: "It's ok for me if robots analyze my answers anonymously."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0203"}	{changeTo: "I've just finished closing my year and planning the next on #yearcompass. If you want to look back and plan ahead easily and beautifully too, check out the link below."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0204"}	{changeTo: "Looked back and planned ahead on #yearcompass. Check out this awesome site and tidy up your life now: http://buff.ly/1YXg434"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0205"}	{changeTo: "If you need a beautiful place to close the year behind and plan the next one, this is it. #yearcompass."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0206"}	{changeTo: "I've just finished closing my year and planning the next on #yearcompass. If you want to look back and plan ahead easily and beautifully too, check out the link below."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0207"}	{changeTo: "I've just finished closing my year and planning the next on #yearcompass. If you want to look back and plan ahead easily and beautifully too, check out the link below."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0208"}	{changeTo: "Great tool for closing your year and planning your next. If you want to make a year end's review of yourself and prepare for the next one effortlessly, you sholud check out this. #yearcompass"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0209"}	{changeTo: "Hey, check out this site: online.yearcompass.com. It helps you close 2015 and plan 2016. I just finished it and it's awesome!"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0210"}	{changeTo: "View all my answers on a printable page"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0211"}	{changeTo: "Translate it to your language"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0201"}	{changeTo: "tvoje zpětná vazba byla uložena"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0202"}	{changeTo: "Nemám problém s tím, že moje odpovědi budou automaticky anonymně analyzovány."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0203"}	{changeTo: "Právě jsem uzavřel můj rok a naplánoval příští rok na #yearcompass. Pokud se chceš ohlédnou za minulým rokem a jednoduše naplánovat další rok, podívej se na tento link."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0204"}	{changeTo: "Zhodnoť rok a naplánuj další na #yearcompass. Vyzkoušej tuto super stránku a nasměruj svůj život hned teď na: http://buff.ly/1YXg434"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0205"}	{changeTo: "Pokud potřebuješ super místo na uzavření minulého roku a naplánování roku příštího, zkus #yearcompass"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0206"}	{changeTo: "Právě jsem uzavřel můj rok a naplánoval příští rok na #yearcompass. Pokud se chceš ohlédnou za minulým rokem a jednoduše naplánovat další rok, podívej se na tento link."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0207"}	{changeTo: "Právě jsem uzavřel můj rok a naplánoval příští rok na #yearcompass. Pokud se chceš ohlédnou za minulým rokem a jednoduše naplánovat další rok, podívej se na tento link."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0208"}	{changeTo: "Skvělý nástroj na uzavření roku a naplánování dalšího. Pokud se chystáš na zhodnocení minulého roku a plánuješ rok další, vyzkoušej #yearcompass"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0209"}	{changeTo: "Koukni na tuhle stránku: online.yearcompass.com. Pomůže ti uzavřit rok 2015 a naplánovat si rok 2016. Já jsem to právě dokončit a je to skvělý."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0210"}	{changeTo: "Podívej se na své odpovědi na stránce určené pro tisk"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0211"}	{changeTo: "Přelož do svého jazyka"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0212"}	{changeTo: "nebo"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0213"}	{changeTo: "leave feedback"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0214"}	{changeTo: "Take me to YearCompass.com"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0215"}	{changeTo: "Download my answers as a PDF file"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0213"}	{changeTo: "zpětná vazba"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0214"}	{changeTo: "Přejdi na YearCompass.com"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0215"}	{changeTo: "Stáhni si odpovědi jako PDF soubor"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
