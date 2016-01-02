@@ -182,7 +182,7 @@ text	{findWhat: "T0181"}	{changeTo: "Anything else you would like to tell us"}	{
 text	{findWhat: "T0182"}	{changeTo: "Select language"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0183"}	{changeTo: "YearCompass"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0184"}	{changeTo: "Translators:"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0185"}	{changeTo: "André Italo, Marco Vasconcelos "}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0185"}	{changeTo: "André Italo, Marco Vasconcelos"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0186"}	{changeTo: "English"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0187"}	{changeTo: "coisas que você sempre quis fazer"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0188"}	{changeTo: "What aspect was the most important to you in the following areas during last year? Which happenings or events were the most significant? Summarize briefly."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}

@@ -1,215 +1,215 @@
-text	{findWhat: "T0001"}	{changeTo: "året framför dig"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0001"}	{changeTo: "ditt kommande år"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0002"}	{changeTo: "2015"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0003"}	{changeTo: "2016"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0004"}	{changeTo: "Årsplaneringshäfte"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0004"}	{changeTo: "Årsplanering - Häfte"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0005"}	{changeTo: "Vad är det här?"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0006"}	{changeTo: "Det här häftet kommer att hjälpa dig att se tillbaka över det gångna året och att planera året som ligger framför dig."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0007"}	{changeTo: "YearCompass will help you look back over the past year and plan the year ahead of you."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0008"}	{changeTo: "Hur hjälper det här mig?"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0009"}	{changeTo: "Att planera ditt år är en bra vana. Det hjälper dig att indentifiera dina framgångar och misslyckanden och hjälper dig att inse hur mycket som kan hända på ett år. Genom att lära från det förflutna kan du planera din framtid så att du inte hamnar i samma mönster och får dig att känna att du har kontroll över ditt eget liv. "}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0010"}	{changeTo: "Vad behöver jag?"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0011"}	{changeTo: "Första versionen (ensamma versionen)"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0012"}	{changeTo: "åtmindstone en timme av oavbruten tid (för att planera året)"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0013"}	{changeTo: "åtmindstone tre timmar av oavbruten tid (för att se tillbaka)"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0014"}	{changeTo: "en kalender över det gångna året"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0015"}	{changeTo: "en utskriven version av det här häftet"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0006"}	{changeTo: "Det här häftet kommer att hjälpa dig att se tillbaka på året som gått och planera det år du har framför dig."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0007"}	{changeTo: "ÅrsKompassen hjälper dig att se tillbaka på året som gått och planera det år du har framför dig."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0008"}	{changeTo: "Varför är det bra för mig?"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0009"}	{changeTo: "Att planera sitt år är en bra vana. Det hjälper dig att bli mer medveten om både dina framgångar och motgångar och att inse hur mycket som kan hända bara under ett år. Genom att lära av det som varit kan du planera din framtid så att du inte upprepar samma mönster, och eventuella misstag - och känna att du har mer kontroll över ditt liv."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0010"}	{changeTo: "Vad behöver jag för att göra detta?"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0011"}	{changeTo: "Version 1 -  \"den ensamma vargens\" version"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0012"}	{changeTo: "minst en timmes oavbruten tid (för att planera året)"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0013"}	{changeTo: "minst tre timmars oavbruten tid (för att se tillbaka på året som gått)"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0014"}	{changeTo: "en kalender från förra året"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0015"}	{changeTo: "en utskrift av det här häftet"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0016"}	{changeTo: "ärlighet och öppenhet"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0017"}	{changeTo: "ett urval av dina favoritpennor"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0018"}	{changeTo: "Andra versionen (gruppövning)"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0019"}	{changeTo: "en inspirerande grupp av människor (2-10 personer)"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0020"}	{changeTo: "åtmindstone fyra timmar kreativ tid"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0021"}	{changeTo: "en kalender över det gångna året"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0022"}	{changeTo: "en utskriven version av det här häftet"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0018"}	{changeTo: "Version 2 -  gruppversionen"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0019"}	{changeTo: "en grupp inspirerande personer (2-10 personer)"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0020"}	{changeTo: "åtminstone fyra timmars kreativ tid"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0021"}	{changeTo: "en kalender från förra året"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0022"}	{changeTo: "en utskrift av det här häftet"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0023"}	{changeTo: "ärlighet och öppenhet"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0024"}	{changeTo: "ett urval av dina favoritpennor"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0025"}	{changeTo: "Get ready"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0026"}	{changeTo: "Anländ."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0025"}	{changeTo: "Gör dig redo"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0026"}	{changeTo: "Var närvarande."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0027"}	{changeTo: "Sätt på lite avslappnande musik."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0028"}	{changeTo: "Häll upp en varm dryck."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0029"}	{changeTo: "Släpp dina förväntningar."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0030"}	{changeTo: "Starta när du känner dig redo."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0031"}	{changeTo: "Det gångna året"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0028"}	{changeTo: "Gör iordning något varmt att dricka."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0029"}	{changeTo: "Släpp alla förväntningar."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0030"}	{changeTo: "Börja när du känner dig redo."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0031"}	{changeTo: "Året som gått"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0032"}	{changeTo: "Gå igenom din kalender"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0033"}	{changeTo: "Gå igenom din kalender över det gångna året vecka för vecka. Om du hittar en viktig händelse, möte eller att-göra, skriv ner det här."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0034"}	{changeTo: "Go through last year's calendar week by week. If you see an important event, family gathering, friendly get-together or a significant project, write it down here."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0035"}	{changeTo: "Det gångna året"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0036"}	{changeTo: "Detta var vad mitt gångna år handlade om"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0037"}	{changeTo: "Vilka var de mest avgörande aspekterna inom de följande områdena*? Vilka händelser var viktigast? Sammanfatta kortfattat."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0038"}	{changeTo: "familj, privatliv"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0039"}	{changeTo: "tillhörigheter (hemmet, föremål)"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0040"}	{changeTo: "friends, community"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0033"}	{changeTo: "Gå igenom förra årets kalender vecka för vecka. Om du ser en viktig händelse, familjesammankomst, vänträff eller viktigt möte, skriv ner det här."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0034"}	{changeTo: "Gå igenom förra årets kalender vecka för vecka. Om du ser en viktig händelse, familjesammankomst, vänträff eller viktigt möte, skriv ner det här."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0035"}	{changeTo: "Året som gått"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0036"}	{changeTo: "Detta är vad förra året handlade om för mig"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0037"}	{changeTo: "Vad var de viktigaste inom följande områden? Vilka händelser eller insikter var mest betydelsefulla under förra året? Skriv ner en kortfattad sammanfattning."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0038"}	{changeTo: "mitt personliga liv / privatliv / familj"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0039"}	{changeTo: "mina ägodelar / saker, hem etc"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0040"}	{changeTo: "vänner / grupper jag tillhör"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0041"}	{changeTo: "intellektuellt"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0042"}	{changeTo: "finanser"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0043"}	{changeTo: "arbete, studier, yrkesliv"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0044"}	{changeTo: "avslappning, hobbies, kreativitet"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0045"}	{changeTo: "hälsa, fitness"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0046"}	{changeTo: "känslomässigt, spirituellt"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0047"}	{changeTo: "bucket list"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0048"}	{changeTo: "Områdena definieras av vad som är viktigt för dig. Vi har ingen färdig definition tillgänglig."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0049"}	{changeTo: "Utifall du har uppnått något som du alltid önskat detta året."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0050"}	{changeTo: "Det gångna året"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0042"}	{changeTo: "finanser / ekonomi"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0043"}	{changeTo: "mitt yrke / arbete / studier"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0044"}	{changeTo: "fritid / hobbies / studier"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0045"}	{changeTo: "hälsa / fitness"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0046"}	{changeTo: "känslomässigt / andligt"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0047"}	{changeTo: "min bucket-list / \"att-göra-innan-jag-dör\"-lista**"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0048"}	{changeTo: "Det är du själv som definierar vad som är viktigt för dig. Vi har ingen färdig definition, och det är medvetet."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0049"}	{changeTo: "Om du, under detta år, uppnått något som du alltid önskat."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0050"}	{changeTo: "Året som gått"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0051"}	{changeTo: "Sex meningar om mitt gångna år"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0052"}	{changeTo: "Det smartaste beslutet jag fattade..."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0053"}	{changeTo: "Den största lärdomen jag lärde mig..."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0054"}	{changeTo: "Den största risken jag tog..."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0055"}	{changeTo: "Årets största överraskning..."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0056"}	{changeTo: "Den största tjänsten jag gjorde..."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0057"}	{changeTo: "Den största uppgiften jag slutförde..."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0058"}	{changeTo: "Det gångna året"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0052"}	{changeTo: "Det smartaste / klokaste beslutet jag fattade var att ..."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0053"}	{changeTo: "Den största lärdomen jag gjorde är att ..."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0054"}	{changeTo: "Den största risken jag tog var att ..."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0055"}	{changeTo: "Årets största överraskning för mig var att ..."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0056"}	{changeTo: "Det viktigaste jag gjorde för andra var att ..."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0057"}	{changeTo: "Den största jag gjorde, och slutförde, var att ..."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0058"}	{changeTo: "Året som gått"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0059"}	{changeTo: "Sex frågor om mitt gångna år"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0060"}	{changeTo: "Vad är du mest stolt över?"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0061"}	{changeTo: "Vilka är de tre personer som påverkat dig mest?"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0062"}	{changeTo: "Vilka är de tre personer som du påverkat mest?"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0063"}	{changeTo: "Vad lyckades du inte åstadkomma?"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0064"}	{changeTo: "Vad är det bästa du har upptäckt om dig själv?"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0060"}	{changeTo: "Vad är du mest av allt stolt över?"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0061"}	{changeTo: "Vilka är de tre personer som påverkade / inspirerade dig mest?"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0062"}	{changeTo: "Vilka är de tre personer du påverkade / inspirerade mest?"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0063"}	{changeTo: "Vad lyckades du inte uppnå?"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0064"}	{changeTo: "Vad är det bästa / viktigaste du upptäckt om dig själv?"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0065"}	{changeTo: "Vad är du mest tacksam över?"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0066"}	{changeTo: "Det gångna året"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0067"}	{changeTo: "De bästa stunderna"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0068"}	{changeTo: "Beskriv de finaste, mest glädjefyllda och minnesvärda tillfällena det gngna året. Rita dem på det här arket. Hur kände du? Vem var där med dig? Vad gjorde du? Vad för slags dofter minns du?"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0069"}	{changeTo: "Describe the greatest and most memorable, joyful moments from last year. How did you feel? Who was there with you? What were you doing? What kind of smells, sounds or tastes do you remember?"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0070"}	{changeTo: "Det gångna året"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0071"}	{changeTo: "Mina tre största bedrifter"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0072"}	{changeTo: "Lista dina tre största bedrifter här."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0073"}	{changeTo: "Vad har du gjort för att uppnå dessa?"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0074"}	{changeTo: "Vem hjälpte dig att uppnå dessa? Hur?"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0075"}	{changeTo: "Mina tre största utmaningar"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0076"}	{changeTo: "Lista dina tre största utmaningar från det gångna året här."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0077"}	{changeTo: "Vem eller vad hjälpte dig att överkomma dessa?"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0078"}	{changeTo: "Vad har du lärt dig om dig själv när du överkom dessa?"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0079"}	{changeTo: "Det gångna året"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0066"}	{changeTo: "Året som gått"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0067"}	{changeTo: "De bästa ögonblicken"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0068"}	{changeTo: "Beskriv dina största, finaste, mest glädjefyllda och minnesvärda stunder under det gågna året. Rita, teckna - eller skriv ner dem här. Hur kände du dig? Vem / vilka var där med dig? Vad gjorde du? Vilka dofter, ljud, smaker minns du?"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0069"}	{changeTo: "Beskriv dina största, finaste, mest glädjefyllda och minnesvärda stunder under det gågna året. Rita, teckna - eller skriv ner dem här. Hur kände du dig? Vem / vilka var där med dig? Vad gjorde du? Vilka dofter, ljud, smaker minns du?"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0070"}	{changeTo: "Året som gått"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0071"}	{changeTo: "Tre av mina största framgångar"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0072"}	{changeTo: "Lista tre av dina största framgångar under förra året här"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0073"}	{changeTo: "Vad gjorde du för att uppnå dessa?"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0074"}	{changeTo: "Vem, eller vilka, hjälpte dig att nå dit? Hur, på vilket sätt?"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0075"}	{changeTo: "Tre av mina största utmaningar"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0076"}	{changeTo: "Lista tre av dina största utmaningar under förra året"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0077"}	{changeTo: "Vem, vilka eller vad hjälpte dig att övervinna dessa?"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0078"}	{changeTo: "Vad har du lärt dig om dig själv genom att övervinna dessa utmaningar?"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0079"}	{changeTo: "Året som gått"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0080"}	{changeTo: "Förlåtelse"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0081"}	{changeTo: "Hände något under det gångna året som fortfarande behöver bli förlåtet? En gärning eller ord som fick dig att må dåligt? Eller är du arg på dig själv? Skriv ner det här. Gör något bra för dig själv och förlåt.*"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0082"}	{changeTo: "Did anything happen during the past year that still needs to be forgiven? Deeds or words that made you feel bad? Or are you angry with yourself? Note it down here. Do good for yourself and forgive."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0083"}	{changeTo: "Om du inte känner dig redo att förlåte än, skriv ner det ändå. Det kan göra underverk."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0084"}	{changeTo: "Det gångna året"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0085"}	{changeTo: "Släppa taget"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0086"}	{changeTo: "Vad mer kan du säga för att försegla det förgångna året? Vad är det för något du måste släppa taget om för att påbörja ditt nya år? Rita eller skriv, utvärdera sedan och släpp taget."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0087"}	{changeTo: "Is there anything else you need to say? Is there anything you must let go of before you can start your next year? Think about it and let it all go."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0088"}	{changeTo: "Det gångna året"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0089"}	{changeTo: "Det gångna året i tre ord."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0090"}	{changeTo: "Välj tre ord som definierar ditt gångna år."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0091"}	{changeTo: "Boken om mitt gångna år"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0092"}	{changeTo: "En bok över ditt gångna år skrevs*. Skriv ner bokens titel."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0093"}	{changeTo: "Vi ber om ursäkt om vi missförstod och just ditt år blev en film istället. Förlåt."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0094"}	{changeTo: "Avsked till ditt gångna år"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0095"}	{changeTo: "Finns det någonting annat kvar som du skulle vilja skriva ner, eller är det någon du skulle vilja säga hej då till, gör det nu."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0096"}	{changeTo: "If there is anything else left that you would like to take note of, or there is anybody you would like to say goodbye to, do it now."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0097"}	{changeTo: "Det gångna året"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0098"}	{changeTo: "Du är färdig med det gångna året."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0099"}	{changeTo: "Du är klar med den första delen."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0081"}	{changeTo: "Inträffade något under det gågna året som bör förlåtas? Handlingar eller ord som du fortfarande mår dåligt av? Eller är du arg på dig själv? Skriv ner det här. Gör gott mot dig själv och ge förlåtelse.*"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0082"}	{changeTo: "Inträffade något under förra året som bör förlåtas? Handlingar eller ord som du fortfarande mår dåligt av? Eller är du arg på dig själv? Skriv ner det här. Gör gott mot dig själv och ge förlåtelse.*"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0083"}	{changeTo: "Om du inte känner dig redo att förlåta, skriv ner det här ändå. Det kan göra underverk."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0084"}	{changeTo: "Året som gått"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0085"}	{changeTo: "Lämna bakom dig - Släpp - Gå vidare"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0086"}	{changeTo: "Är det något mer du vill säga? Är det något du bör släppa, lämna bakom dig innan du kan börja ditt nya år? Skriv, rita, teckna, gör ett coallage - reflektera över det - och lämna det ..."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0087"}	{changeTo: "Är det något mer du vill säga? Är det något du bör släppa, lämna bakom dig innan du kan börja ditt nya år? Skriv, rita, teckna, gör ett coallage - reflektera över det - och lämna det ..."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0088"}	{changeTo: "Året som gått"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0089"}	{changeTo: "Året som gått i tre ord"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0090"}	{changeTo: "Välj tre ord som beskriver ditt föregående år."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0091"}	{changeTo: "Boken om mitt år som gått"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0092"}	{changeTo: "Det har skrivits en bok om ditt år som gått.* Skriv ner titeln på boken."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0093"}	{changeTo: "Vi ber om ursäkt om vi missuppfattat att ditt liv blev en film istället för en bok.. Vi ber om ursäkt för det."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0094"}	{changeTo: "Farväl - Adjö - Hej då! till ditt förra år"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0095"}	{changeTo: "Om det är något mer du vill skriva ner eller någon du vill säga adjö till - gör det nu och här!"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0096"}	{changeTo: "Om det är något mer du vill skriva ner eller någon du vill säga adjö till - gör det nu och här!"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0097"}	{changeTo: "Året som gått"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0098"}	{changeTo: "Nu har du avslutat ditt föregående år."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0099"}	{changeTo: "Och du är klar med den första delen av din planering för nästa år."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0100"}	{changeTo: "Ta ett djupt andetag."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0101"}	{changeTo: "Få lite vila."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0102"}	{changeTo: "If you want to tell others about this, take a picture while filling out the booklet, and share it."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0103"}	{changeTo: "Feel free to use the hashtags:"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0104"}	{changeTo: "#yearcompass"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0105"}	{changeTo: "Det gångna året"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0106"}	{changeTo: "Året framför dig"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0101"}	{changeTo: "Och ta en paus."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0102"}	{changeTo: "Om du vill - berätta för andra om ÅrsKompassen - YearCompass! Ta en bild medan du fyller i häftet och dela det på Facebook."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0103"}	{changeTo: "Du kan använda följande hashtags:"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0104"}	{changeTo: "ÅrsKompassen #yearcompass"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0105"}	{changeTo: "Året som gått"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0106"}	{changeTo: "Året som kommer"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0107"}	{changeTo: "2016"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0108"}	{changeTo: "Året framför dig"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0108"}	{changeTo: "Året som kommer"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0109"}	{changeTo: "Våga drömma stort"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0110"}	{changeTo: "What does the year ahead of you look like? What will happen in an ideal case? Why will it be great? Write, draw, let go of your expectations and dare to dream."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0111"}	{changeTo: "What does the year ahead of you look like? What will happen in an ideal case? Why will it be great? Let go of your expectations and dare to dream."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0112"}	{changeTo: "Året framför dig"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0113"}	{changeTo: "This is what my next year will be about"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0114"}	{changeTo: "Define the most important aspects of next year in the following areas*. Which events will be the most important? Summarize briefly."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0115"}	{changeTo: "familj, privatliv"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0116"}	{changeTo: "tillhörigheter (hemmet, föremål)"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0117"}	{changeTo: "friends, community"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0110"}	{changeTo: "Hur ser det kommande året ut för dig? Om allt skulle vara till det bästa - vad händer? Varför blir nästa år så fantastiskt? Skriv ner, rita, teckna, måla, gör ett collage - släpp loss dina förväntningar och våga dröm!"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0111"}	{changeTo: "Hur ser det kommande året ut för dig? Om allt skulle vara till det bästa - vad händer? Varför blir nästa år så fantastiskt? Skriv ner, rita, teckna, måla, gör ett collage - släpp loss dina förväntningar och våga dröm!"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0112"}	{changeTo: "Året som kommer"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0113"}	{changeTo: "Det här är vad mitt nästa år kommer att handla om"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0114"}	{changeTo: "Skriv ner de viktigaste för dig, vad du vill ska ske / vad du vill uppnå under nästa år inom följande områden*. Vad kommer att bli det mest betydelsefulla ? Gör en kort sammanfattning"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0115"}	{changeTo: "mitt personliga liv / privatliv / familj"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0116"}	{changeTo: "mina ägodelar / saker, hem etc"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0117"}	{changeTo: "vänner / grupper jag tillhör"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0118"}	{changeTo: "intellektuellt"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0119"}	{changeTo: "finanser"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0120"}	{changeTo: "arbete, studier, yrkesliv"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0121"}	{changeTo: "avslappning, hobbies, kreativitet"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0122"}	{changeTo: "hälsa, fitness"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0123"}	{changeTo: "känslomässigt, spirituellt"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0124"}	{changeTo: "bucket list"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0125"}	{changeTo: "We still don't have exact definitions, use your own discretion."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0126"}	{changeTo: "This is where you can list those goals you eventually want to achieve."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0127"}	{changeTo: "Året framför dig"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0128"}	{changeTo: "This is what my next year will be about"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0129"}	{changeTo: "Feel free to cut out this page, put it on the wall or on your fridge or fold it up to make it fit in your wallet."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0130"}	{changeTo: "The point is to have it somewhere reachable, so you can take a glance at it every now and then and feel happy about the goals you have achieved, and work on the ones that are yet to be accomplished."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0131"}	{changeTo: "Året framför dig"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0132"}	{changeTo: "Magical triplets for the year ahead"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0133"}	{changeTo: "These three things I will love about myself."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0134"}	{changeTo: "Tre saker som jag är redo att släppa."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0135"}	{changeTo: "Dessa tre saker vill jag helst uppnå."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0136"}	{changeTo: "Dessa tre vänner kan jag lita på i regn och rusk."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0137"}	{changeTo: "Dessa tre saker kommer jag våga upptäcka."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0138"}	{changeTo: "Dessa tre saker kommer jag ha kraft att säga nej till."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0139"}	{changeTo: "Året framför dig"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0140"}	{changeTo: "Magical triplets for the year ahead"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0141"}	{changeTo: "Dessa tre saker kommer jag göra min omgivning mysigare med."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0142"}	{changeTo: "Dessa tre saker kommer jag att göra varje morgon."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0143"}	{changeTo: "These three things I will pamper myself with regularly."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0144"}	{changeTo: "Dessa tre ställen kommer jag att besöka."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0145"}	{changeTo: "På dessa sätt kommer jag anknyta till mina nära och kära."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0146"}	{changeTo: "Med dessa tre presenter ska jag fira min framgång."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0147"}	{changeTo: "Året framför dig"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0148"}	{changeTo: "Sex meningar om mig nästa år"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0149"}	{changeTo: "Detta år ska jag inte längre skjuta upp..."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0150"}	{changeTo: "Detta år kommer jag få mest energi från..."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0151"}	{changeTo: "Detta år kommer jag vara modigast när..."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0152"}	{changeTo: "Detta år ska jag säga ja när..."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0119"}	{changeTo: "finanser / ekonomi"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0120"}	{changeTo: "mitt yrke / arbete / studier"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0121"}	{changeTo: "fritid / hobbies / studier"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0122"}	{changeTo: "hälsa / fitness"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0123"}	{changeTo: "känslomässigt / andligt"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0124"}	{changeTo: "min bucket-list / \"att-göra-innan-jag-dör\"-lista**"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0125"}	{changeTo: "Vi har inte några exakta definitioner eller formuleringar, använd de som du tycker är bäst själv."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0126"}	{changeTo: "Här kan du lista de mål som du kommer fram till att du vill uppnå,"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0127"}	{changeTo: "Året som kommer"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0128"}	{changeTo: "Det här är vad mitt nästa år kommer att handla om"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0129"}	{changeTo: "Du kan klippa ut denna sida, sätta upp den på väggen, på kylskåpsdörren eller vika ihop den och stoppa den i din plånbok."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0130"}	{changeTo: "Syftet är att du ska ha den inom räckhåll så att du kan titta på den lite då och då och känna dig glad över de mål du uppnått. Och arbeta vidare på dem som du har kvar."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0131"}	{changeTo: "Året som kommer"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0132"}	{changeTo: "Magiska tretal för nästa år"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0133"}	{changeTo: "Dessa tre saker kommer jag att verkligen uppskatta hos mig själv under nästa år."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0134"}	{changeTo: "Jag är redo att lämna dessa tre saker bakom mig under nästa år."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0135"}	{changeTo: "Dessa tre saker vill jag mest av allt uppnå under nästa år."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0136"}	{changeTo: "De här tre personerna är mitt stöd när saker och ting blir jobbiga."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0137"}	{changeTo: "Dessa tre saker kommer jag att vara modig att göra / upptäcka / ta reda på."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0138"}	{changeTo: "Dessa tre saker kommer jag ha kraft att säga nej till under nästa år."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0139"}	{changeTo: "Året som kommer"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0140"}	{changeTo: "Magiska tretal för nästa år"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0141"}	{changeTo: "Dessa tre saker kommer jag göra min omgivning trivsam med."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0142"}	{changeTo: "Under nästa år gör jag de här tre sakerna varje morgon."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0143"}	{changeTo: "Jag skämmer bort mig regelbundet med dessa tre saker."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0144"}	{changeTo: "Jag besöker de här tre platserna."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0145"}	{changeTo: "På dessa tre sätt relaterar jag till mina nära och kära."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0146"}	{changeTo: "Tre presenter som jag ger mig själv för att fira min framgång / när jag gjort något bra."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0147"}	{changeTo: "Året som kommer"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0148"}	{changeTo: "Sex meningar om mitt kommande år"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0149"}	{changeTo: "Detta år ska jag inte längre skjuta upp att ..."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0150"}	{changeTo: "Detta år tar jag mest energi från..."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0151"}	{changeTo: "Detta år visar jag mest mod när..."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0152"}	{changeTo: "Detta år säger jag ja när..."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0153"}	{changeTo: "I år råder jag mig själv att..."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0154"}	{changeTo: "Det här året ska vara speciellt för mig eftersom..."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0155"}	{changeTo: "Året framför dig"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0156"}	{changeTo: "Mitt ord för kommande år"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0157"}	{changeTo: "Pick a word to symbolize and define the year ahead. You can look at this word if you need some extra energy, so you remember not to give up your dreams."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0154"}	{changeTo: "Det här året kommer att vara speciellt för mig därför att ..."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0155"}	{changeTo: "Året som kommer"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0156"}	{changeTo: "Mitt ledord för nästa år"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0157"}	{changeTo: "Välj ett ord som symboliserar och definierar ditt kommande år. Ett ord som du kan titta på, tänka på, säga till dig själv när du behöver extra energi. Så att du inte glömmer att följa dina drömmar."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0158"}	{changeTo: "Hemlig önskan"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0159"}	{changeTo: "Släpp loss kreativiteten, vilken är din hemliga önskan för kommande år?"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0160"}	{changeTo: "Året framför dig"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0159"}	{changeTo: "Släpp loss dina tankar. Din hemliga önskan för nästa år? Vad är det?"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0160"}	{changeTo: "Året som kommer"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0161"}	{changeTo: "Jag tror att allt är möjligt kommande år"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0162"}	{changeTo: "Datum:"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0163"}	{changeTo: "underskrift"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0164"}	{changeTo: "Nu är du klar med din planering."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0165"}	{changeTo: "Två små saker till slut:"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0166"}	{changeTo: "Glöm inte att riva ut sidan 17 och sätt upp den på ett synligt ställe."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0167"}	{changeTo: "If you've taken a photo while filling out the booklet feel free to use the hashtags:"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0168"}	{changeTo: "#yearcompass"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0169"}	{changeTo: "Året framför dig"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0170"}	{changeTo: "Made by the volunteers of YearCompass and Invisible University International."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0171"}	{changeTo: "http://yearcompass.com/en"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0172"}	{changeTo: "If you'd like to give somebody a Year planning booklet as a gift (and support our cause) follow this link:"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0164"}	{changeTo: "Du är nu klar med din planering."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0165"}	{changeTo: "Två små tillägg nu i slutet:"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0166"}	{changeTo: "Glöm inte att klippa ut sidan 17 och sätt upp den på ett synligt ställe."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0167"}	{changeTo: "Om du har tagit en bild under tiden du gjort din årsplanering och vill dela med dig den, använd någon av dessa hashtags:"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0168"}	{changeTo: "ÅrsKompassen #yearcompass"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0169"}	{changeTo: "Året som kommer"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0170"}	{changeTo: "Gjort av volontärer för YearCompass och Invisible University International."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0171"}	{changeTo: "http://yearcompass.com/ISO 3166-2:SE"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0172"}	{changeTo: "Om du vill ge någon detta häfte, ÅrsKompassen, (och också stödja oss) - följ denna länk:"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0173"}	{changeTo: "http://yearcompass.com/shop"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0174"}	{changeTo: "We are native Hungarians and this workbook is a translation of our original work. Should you discover any typos, mistakes in grammar or nonexistent expressions be kind and drop us a line via the above website."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0175"}	{changeTo: "This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International license."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0176"}	{changeTo: "We'll remember it for you"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0177"}	{changeTo: "Your answers aren't just a scream into the void. We keep them for you. But in order to do so, we need to be able to remember you. Please log in."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0178"}	{changeTo: "Share your achievement"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0179"}	{changeTo: "Help us make YearCompass better."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0180"}	{changeTo: "Please rate the questions you answered"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0181"}	{changeTo: "Anything else you would like to tell us"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0182"}	{changeTo: "Select language"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0183"}	{changeTo: "YearCompass"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0184"}	{changeTo: "Translators:"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0185"}	{changeTo: "Johan Säfholm, Simon Nigran"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0186"}	{changeTo: "English"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0187"}	{changeTo: "bucket list"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0188"}	{changeTo: "What aspect was the most important to you in the following areas during last year? Which happenings or events were the most significant? Summarize briefly."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0189"}	{changeTo: "A book was made about your past year. Write down its title."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0190"}	{changeTo: "Define the most important aspects of next year in the following areas. Which events will be the most important? Summarize briefly."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0191"}	{changeTo: "YearCompass"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0192"}	{changeTo: "Finish"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0193"}	{changeTo: "Logout"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0194"}	{changeTo: "Next year"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0195"}	{changeTo: "Sign in to continue"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0196"}	{changeTo: "Save and exit"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0174"}	{changeTo: "Vi som gjort denna arbetsbok är födda i Ungern och detta är en översättning av originalet. Om du skulle upptäcka några stavfel, grammatiska misstag eller uttryck som inte finns eller används, tar vi tacksamt emot ett mail om detta via vår hemsida. Adressen finns ovan."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0175"}	{changeTo: "Detta arbete lyder under Creative Commons 4.0 Internationell License - det är alltså icke-kommersiellt och fritt att dela."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0176"}	{changeTo: "Vi kommer att minnas dig."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0177"}	{changeTo: "Dina svar har inte gått förlorade. Vi behåller dem för dig. Men för att göra detta måste vi också komma ihåg dig också. Och det gör vi genom att du loggar in."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0178"}	{changeTo: "Dela dina framgånger."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0179"}	{changeTo: "Hjälp oss att göra YearCompass - ÅrsKompassen - på svenska ändå bättre."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0180"}	{changeTo: "Här kan du värdera frågorna du besvarat."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0181"}	{changeTo: "Något annat du vill meddela oss?"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0182"}	{changeTo: "Välj språk"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0183"}	{changeTo: "ÅrsKompassen"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0184"}	{changeTo: "Översättning"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0185"}	{changeTo: "GROW magazine - growmagazine.se"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0186"}	{changeTo: "Svenska"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0187"}	{changeTo: "min bucket-list / \"att-göra-innan-jag-dör\"-lista**"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0188"}	{changeTo: "Vad var det viktigaste för dig under förra året inom följande områden? De mest betydelsefulla händelserna / upplevelserna? Gör en kortfattad sammanfattning."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0189"}	{changeTo: "Det skrevs en bok om ditt förra år. Skriv ner titeln på boken."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0190"}	{changeTo: "Vad kommer att bli det mest viktiga under nästa för dig inom följande områden? Vad kommer att bli det mest betydelsefulla? Gör en kortfattade sammanfattning."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0191"}	{changeTo: "ÅrsKompassen - YearCompass"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0192"}	{changeTo: "Avsluta"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0193"}	{changeTo: "Logga ut"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0194"}	{changeTo: "Nästa år"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0195"}	{changeTo: "Logga in för att fortsätta"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0196"}	{changeTo: "Spara och logga ut"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0197"}	{changeTo: "Feedback"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0198"}	{changeTo: "OK"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0199"}	{changeTo: "#close2015"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0200"}	{changeTo: "#plan2016"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0201"}	{changeTo: "your feedback has been saved"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0202"}	{changeTo: "It's ok for me if robots analyze my answers anonymously."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0203"}	{changeTo: "I've just finished closing my year and planning the next on #yearcompass. If you want to look back and plan ahead easily and beautifully too, check out the link below."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0204"}	{changeTo: "Looked back and planned ahead on #yearcompass. Check out this awesome site and tidy up your life now: http://buff.ly/1YXg434"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0205"}	{changeTo: "If you need a beautiful place to close the year behind and plan the next one, this is it. #yearcompass."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0206"}	{changeTo: "I've just finished closing my year and planning the next on #yearcompass. If you want to look back and plan ahead easily and beautifully too, check out the link below."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0207"}	{changeTo: "I've just finished closing my year and planning the next on #yearcompass. If you want to look back and plan ahead easily and beautifully too, check out the link below."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0208"}	{changeTo: "Great tool for closing your year and planning your next. If you want to make a year end's review of yourself and prepare for the next one effortlessly, you sholud check out this. #yearcompass"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0209"}	{changeTo: "Hey, check out this site: online.yearcompass.com. It helps you close 2015 and plan 2016. I just finished it and it's awesome!"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0210"}	{changeTo: "View all my answers on a printable page"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0211"}	{changeTo: "Translate it to your language"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0201"}	{changeTo: "din feedback har sparats"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0202"}	{changeTo: "det är ok för mig att robotar analyserar mina svar anonymt"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0203"}	{changeTo: "Har precis avslutat min genomgång av förra året och kommer att planera mitt nästa år på #yearcompass. För att gå tillbaka och på ett enkelt sätt planera framåt, och dessutom göra det så det ser snyggt ut, klicka på länken nedan."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0204"}	{changeTo: "Sett tillbaka och planerat framåt på #yearcompass, Kolla upp den här häftiga sidan och rensa upp ditt liv nu: http://buff.ly/1YXg434"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0205"}	{changeTo: "Om du behöver en fantastisk plats att avsluta ditt år på och planera inför ditt nästa, har du den här: #yearcompass"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0206"}	{changeTo: "Har precis avslutat min genomgång av förra året och kommer att planera mitt nästa år på #yearcompass. För att gå tillbaka och på ett enkelt sätt planera framåt, och dessutom göra det så det ser snyggt ut, klicka på länken nedan."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0207"}	{changeTo: "Har precis avslutat min genomgång av förra året och kommer att planera mitt nästa år på #yearcompass. För att gå tillbaka och på ett enkelt sätt planera framåt, och dessutom göra det så det ser snyggt ut, klicka på länken nedan."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0208"}	{changeTo: "Fantastiskt verktyg för att avsluta föregående år och planera för nästa! Om du vill värdera ditt år som gått och förbereda dig för ditt nästa på ett enkelt sätt, då ska du fortsätta hit: #yearcompass"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0209"}	{changeTo: "Hej! Kolla in den här sidan: online.yearcompass.com. Här får du hjälp med att avsluta 2015 och planera 2016. Jag har precis gjort det! Häftigt!"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0210"}	{changeTo: "Jag vill se alla mina svar på en sida jag kan skriva ut."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0211"}	{changeTo: "Översätt till ditt språk."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0212"}	{changeTo: "eller"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0213"}	{changeTo: "leave feedback"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0214"}	{changeTo: "Take me to YearCompass.com"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0215"}	{changeTo: "Download my answers as a PDF file"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0213"}	{changeTo: "lämna feedback"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0214"}	{changeTo: "Ta mig till YearCompass.com"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0215"}	{changeTo: "Ladda ner mina svar som en PDF fil"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}

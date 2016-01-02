@@ -8,7 +8,7 @@ text	{findWhat: "T0007"}	{changeTo: "JarKompaso helpos al vi rerigardi al la pas
 text	{findWhat: "T0008"}	{changeTo: "Kial tio utilas por vi?"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0009"}	{changeTo: "Pripensado de via jaro estas bona kutimo. Ĝi helpas konsciigi al vi viajn sukcesojn kaj malĝojojn, kaj helpos vin rimarki, kiom multe povas okazi en unu jaro. Lernante de via pasinteco vi povas plani vian estontecon, por ke vi ne ripetu la samajn fuŝojn, kaj por ke vi povu kontroli vian vivon."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0010"}	{changeTo: "Kion vi bezonos?"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0011"}	{changeTo: "Unua versio (\"la sola lupo\" / individua) "}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0011"}	{changeTo: "Unua versio (\"la sola lupo\" / individua)"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0012"}	{changeTo: "almenaŭ unu horon da trankvila tempo (por plani la sekvan jaron)"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0013"}	{changeTo: "almenaŭ tri horojn da trankvila tempo (por pripensi la pasintan jaron)"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0014"}	{changeTo: "kalendaron de la pasinta jaro"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
@@ -101,7 +101,7 @@ text	{findWhat: "T0100"}	{changeTo: "Spiru profunde."}	{includeFootnotes:true, i
 text	{findWhat: "T0101"}	{changeTo: "Ripozu iomete."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0102"}	{changeTo: "Se vi volas rakonti al iu pri JarKompaso, tiam fotu vian libreton dum/post la plenigado kaj kundividu ĝin."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0103"}	{changeTo: "Senhezite uzu tiujn kradvortojn:"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0104"}	{changeTo: "#jarkompaso #yearcompass "}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0104"}	{changeTo: "#jarkompaso #yearcompass"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0105"}	{changeTo: "La pasinta jaro"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0106"}	{changeTo: "La sekva jaro"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0107"}	{changeTo: "2016"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
@@ -155,7 +155,7 @@ text	{findWhat: "T0154"}	{changeTo: "Tiu ĉi jaro estos speciala por mi, ĉar...
 text	{findWhat: "T0155"}	{changeTo: "La sekva jaro"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0156"}	{changeTo: "Mia vorto por la sekva jaro estas"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0157"}	{changeTo: "Elektu vorton por via sekva jaro. Ĝi donos al vi forton ne rezigni pri viaj revoj, ĝi estos via helpilo, se vi bezonas iom da forto. Tiu ĉi vorto karakterizos vian venontan jaron."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0158"}	{changeTo: "Mia sekreta deziro "}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0158"}	{changeTo: "Mia sekreta deziro"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0159"}	{changeTo: "Pensu senlime! Kio estas via sekreta deziro por la sekva jaro?"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0160"}	{changeTo: "La sekva jaro"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0161"}	{changeTo: "Mi kredas, ke ĉio eblas en tiu ĉi jaro."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
@@ -165,11 +165,11 @@ text	{findWhat: "T0164"}	{changeTo: "Vi estas preta per la planado de via jaro."
 text	{findWhat: "T0165"}	{changeTo: "Fine venu du etaj rimarkoj:"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0166"}	{changeTo: "Ne forgesu eltondi la paĝon 17 kaj meti ien, kie vi vidos ĝin de tempo al tempo."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0167"}	{changeTo: "Se vi fotas la plenigadon de la libreto, libere kundividu ĝin per tiuj kradvortoj:"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0168"}	{changeTo: "#jarkompaso #yearcompass "}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0168"}	{changeTo: "#jarkompaso #yearcompass"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0169"}	{changeTo: "La sekva jaro"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0170"}	{changeTo: "Farite de la volontuloj de la YearCompass kaj de la Invisible University International."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0171"}	{changeTo: "http://yearcompass.com/eo"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0172"}	{changeTo: "Se vi deziras donaci la JarKompason al iu (aŭ vi subtenas nian celon) klaku al la ligilo: "}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0172"}	{changeTo: "Se vi deziras donaci la JarKompason al iu (aŭ vi subtenas nian celon) klaku al la ligilo:"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0173"}	{changeTo: "http://yearcompass.com/shop"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0174"}	{changeTo: "Ni estas denaske hungaroj kaj tiu ĉi libreto estas traduko de nia originala laboro. Se vi rimarkas ajnan mistajpon, fuŝojn pri la gramatiko aŭ neekzistantajn esprimojn tiam ni petas vin skribi tion al ni tra la retpaĝo."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0175"}	{changeTo: "Ĉi tiu verko estas disponebla laŭ la permesilo de la Creative Commons Atribuite-Nekomerce-Samkondiĉe 4.0 Tutmonda."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}

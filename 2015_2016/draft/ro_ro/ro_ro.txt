@@ -13,14 +13,14 @@ text	{findWhat: "T0012"}	{changeTo: "cel puţin o oră fără întrerupere (pent
 text	{findWhat: "T0013"}	{changeTo: "cel puţin trei ore (pentru revederea anului trecut)"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0014"}	{changeTo: "calendarul anului trecut"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0015"}	{changeTo: "un exemplar printat al acestui caiet"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0016"}	{changeTo: "sinceritate şi deschidere "}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0016"}	{changeTo: "sinceritate şi deschidere"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0017"}	{changeTo: "o selecţie din instrumentele tale de scris preferate"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0018"}	{changeTo: "Varianta a 2-a (de grup)"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0019"}	{changeTo: "un grup de oameni care te inspiră (2-10 persoane)"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0020"}	{changeTo: "cel puţin patru ore de timp creativ "}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0020"}	{changeTo: "cel puţin patru ore de timp creativ"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0021"}	{changeTo: "calendarul anului trecut"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0022"}	{changeTo: "un exemplar printat al acestui caiet"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0023"}	{changeTo: "sinceritate şi deschidere "}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0023"}	{changeTo: "sinceritate şi deschidere"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0024"}	{changeTo: "o selecţie din instrumentele tale de scris preferate"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0025"}	{changeTo: "Pregăteşte-te"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0026"}	{changeTo: "Fă-te comod."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
@@ -80,7 +80,7 @@ text	{findWhat: "T0079"}	{changeTo: "Anul trecut"}	{includeFootnotes:true, inclu
 text	{findWhat: "T0080"}	{changeTo: "Iertare"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0081"}	{changeTo: "Ţi s-a întâmplat ceva anul trecut ce încă trebuie să ierţi cuiva? Fapte sau cuvinte care te-au rănit? Sau eşti supărat încă pe tine? Pune asta în scris aici, fă-ţi un bine şi iartă*."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0082"}	{changeTo: "Ţi s-a întâmplat ceva anul trecut ce încă trebuie să ierţi cuiva? Fapte sau cuvinte care te-au rănit? Sau eşti supărat încă pe tine? Pune asta în scris aici, fă-ţi un bine şi iartă*."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0083"}	{changeTo: "Dacă nu te simţi încă pregătit(ă) să ierţi, scrie oricum. Poate face de multe ori minuni. "}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0083"}	{changeTo: "Dacă nu te simţi încă pregătit(ă) să ierţi, scrie oricum. Poate face de multe ori minuni."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0084"}	{changeTo: "Anul trecut"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0085"}	{changeTo: "Dezlegare"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0086"}	{changeTo: "Ce mai ai de spus ca să poţi încheia anul trecut? Ce lucruri trebuie să laşi să treacă pentru a intra în noul an? Scrie sau desenează, apoi aruncă-le o privire şi dă-le drumul la toate."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
@@ -107,7 +107,7 @@ text	{findWhat: "T0106"}	{changeTo: "Anul dinaintea ta"}	{includeFootnotes:true,
 text	{findWhat: "T0107"}	{changeTo: "2016"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0108"}	{changeTo: "Anul dinaintea ta"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0109"}	{changeTo: "Visează din plin"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0110"}	{changeTo: "Cum arată anul care urmează?Ce se poate întâmpla în cazul ideal? De ce va fi bun? Desenează, scrie, eliberează-te de aşteptări şi îndrăzneşte să visezi. "}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0110"}	{changeTo: "Cum arată anul care urmează?Ce se poate întâmpla în cazul ideal? De ce va fi bun? Desenează, scrie, eliberează-te de aşteptări şi îndrăzneşte să visezi."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0111"}	{changeTo: "Cum arată anul care urmează? Ce se poate întâmpla în cazul ideal?De ce va fi bun? Eliberează-te de aşteptări şi îndrăzneşte să visezi"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0112"}	{changeTo: "Anul dinaintea ta"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0113"}	{changeTo: "Despre asta e vorba în anul meu următor"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}

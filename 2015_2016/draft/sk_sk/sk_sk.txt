@@ -11,14 +11,14 @@ text	{findWhat: "T0010"}	{changeTo: "Čo budeš potrebovať?"}	{includeFootnotes
 text	{findWhat: "T0011"}	{changeTo: "1. možnosť - osamote"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0012"}	{changeTo: "aspoň hodinu voľného, ničím nerušeného času (na naplánovanie budúceho roku)"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0013"}	{changeTo: "aspoň tri hodiny voľného, ničím nerušeného  času (na pozretie sa do minulosti)"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0014"}	{changeTo: "kalendár z minulého roku "}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0014"}	{changeTo: "kalendár z minulého roku"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0015"}	{changeTo: "vytlačenú kópiu tejto brožúri"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0016"}	{changeTo: "úprimnosť a otvorenosť"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0017"}	{changeTo: "obľúbené pero"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0018"}	{changeTo: "2. možnosť - v skupine"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0019"}	{changeTo: "inšpirujúcu spoločnosť (2-10 osôb)"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0020"}	{changeTo: "aspoň štyri hodiny voľného, kreatívneho času"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0021"}	{changeTo: "kalendár z minulého roku "}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0021"}	{changeTo: "kalendár z minulého roku"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0022"}	{changeTo: "vytlačenú kópiu tejto brožúri"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0023"}	{changeTo: "úprimnosť a otvorenosť"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0024"}	{changeTo: "obľúbené pero"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
@@ -101,7 +101,7 @@ text	{findWhat: "T0100"}	{changeTo: "Hlboký nádych."}	{includeFootnotes:true, 
 text	{findWhat: "T0101"}	{changeTo: "Oddýchni si."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0102"}	{changeTo: "If you want to tell others about this, take a picture while filling out the booklet, and share it."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0103"}	{changeTo: "Feel free to use the hashtags:"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0104"}	{changeTo: "#kompassroku #yearcompass "}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0104"}	{changeTo: "#kompassroku #yearcompass"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0105"}	{changeTo: "Minulý rok"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0106"}	{changeTo: "Rok máš pred sebou"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0107"}	{changeTo: "2016"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
@@ -165,7 +165,7 @@ text	{findWhat: "T0164"}	{changeTo: "Dokončil/a si plánovanie."}	{includeFootn
 text	{findWhat: "T0165"}	{changeTo: "Dve drobnosti na koniec:"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0166"}	{changeTo: "Nezabudni si vystrihnúť a prilepiť na viditeľné miesto stranu 17."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0167"}	{changeTo: "Pokiaľ sa vyfotíš pri vyplňovaní plánovača, použi kľudne nasledujúce hashtagy:"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0168"}	{changeTo: "#kompassroku #yearcompass "}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0168"}	{changeTo: "#kompassroku #yearcompass"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0169"}	{changeTo: "Rok máš pred sebou"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0170"}	{changeTo: "Bolo vyrobené spolupracovníkmi YearCompass a dobrovoľníkmi z Invisible University International."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0171"}	{changeTo: "http://yearcompass.com/sk"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}

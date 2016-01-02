@@ -171,7 +171,7 @@ text	{findWhat: "T0170"}	{changeTo: "Készítették az Éviránytű és a Látha
 text	{findWhat: "T0171"}	{changeTo: "http://yearcompass.com/hu"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0172"}	{changeTo: "Ha szeretnél valakinek Évrendező füzetet ajándékozni (és ezzel támogatni az ügyünket), látogass el erre a linkre:"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0173"}	{changeTo: "http://yearcompass.com/shop"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0174"}	{changeTo: " "}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0174"}	{changeTo: ""}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0175"}	{changeTo: "A tartalomra a Creative Commons Nevezd meg! - Ne add el! - Így add tovább! 4.0 Nemzetközi licence érvényes."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0176"}	{changeTo: "Megjegyezzük helyetted"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0177"}	{changeTo: "A válaszaid nem vesznek kárba, megőrizzük neked. Ehhez viszont emlékeznünk kell Rád is, ezért kérjük, jelentkezz be."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
@@ -181,8 +181,8 @@ text	{findWhat: "T0180"}	{changeTo: "Kérjük, értékeld a megválaszolt kérd�
 text	{findWhat: "T0181"}	{changeTo: "Bármi, amit még szeretnél nekünk üzenni"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0182"}	{changeTo: "Válassz nyelvet"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0183"}	{changeTo: "Éviránytű"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0184"}	{changeTo: " "}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0185"}	{changeTo: " "}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0184"}	{changeTo: "Lektorálták:"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0185"}	{changeTo: "Freisinger Ádám, Urbán Eszter"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0186"}	{changeTo: "Magyar"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0187"}	{changeTo: "bakancslista"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0188"}	{changeTo: "Mi volt számodra meghatározó az elmúlt évben az alábbi területeken? Mely történések voltak a legfontosabbak? Foglald össze néhány szóban."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
@@ -205,7 +205,7 @@ text	{findWhat: "T0204"}	{changeTo: "2015 mögöttem, 2016 előttem. Épp most f
 text	{findWhat: "T0205"}	{changeTo: "Ha egy egyszerű és szép helyet keresel, hogy lezárhasd az éved, ez az. #éviránytű"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0206"}	{changeTo: "2015 mögöttem, 2016 előttem. Épp most fejeztem be az évrendezést az #éviránytű oldalán, próbáljátok ki Ti is!"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0207"}	{changeTo: "2015 mögöttem, 2016 előttem. Épp most fejeztem be az évrendezést az #éviránytű oldalán, próbáljátok ki Ti is!"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0208"}	{changeTo: "Egy nagyszerű eszköz arra, hogy lezárd a mögötted álló évet és megtervezd a következőt. Ha szeretnél tisztába jönni önmagaddal és felkészülni a következő évre, érdemes kipróbálnod az ÉvIránytű oldalát. "}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0208"}	{changeTo: "Egy nagyszerű eszköz arra, hogy lezárd a mögötted álló évet és megtervezd a következőt. Ha szeretnél tisztába jönni önmagaddal és felkészülni a következő évre, érdemes kipróbálnod az ÉvIránytű oldalát."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0209"}	{changeTo: "Helló! Van ez az oldal: online.yearcompass.com. Segít lezárni 2015-öt és megtervezni 2016-ot. Próbáld ki, menő!"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0210"}	{changeTo: "Mutasd a válaszaim nyomtatható formában"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0211"}	{changeTo: "Fordítsd le a saját nyelvedre"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}

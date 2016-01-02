@@ -96,7 +96,7 @@ text	{findWhat: "T0095"}	{changeTo: "Si ha quedado algo que quieres escribir o h
 text	{findWhat: "T0096"}	{changeTo: "Si ha quedado algo que quieres anotar o hay alguien de quien te quieras despedir, hazlo ahora."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0097"}	{changeTo: "El año pasado"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0098"}	{changeTo: "Has terminado con el año pasado."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0099"}	{changeTo: "Has terminado la primera parte. "}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0099"}	{changeTo: "Has terminado la primera parte."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0100"}	{changeTo: "Respira profundo."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0101"}	{changeTo: "Descansa un poco."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0102"}	{changeTo: "Si quieres compartir lo que has hecho, haz una foto mientras rellenas el cuaderno y compártelo."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
@@ -212,4 +212,4 @@ text	{findWhat: "T0211"}	{changeTo: "Tradúcelo en tu propio lenguage"}	{include
 text	{findWhat: "T0212"}	{changeTo: "o"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0213"}	{changeTo: "deja comentarios"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0214"}	{changeTo: "Llévame a YearCompass.com"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0215"}	{changeTo: "Descargar mis respuestas en un archivo PDF "}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0215"}	{changeTo: "Descargar mis respuestas en un archivo PDF"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}

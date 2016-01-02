@@ -6,21 +6,21 @@ text	{findWhat: "T0005"}	{changeTo: "Hva er dette?"}	{includeFootnotes:true, inc
 text	{findWhat: "T0006"}	{changeTo: "Heftet vil hjelpe deg med å se tilbake på året som har vært, og planlegge året som kommer."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0007"}	{changeTo: "YearCompass vil hjelpe deg med å se tilbake på året som har vært, og planlegge året som kommer"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0008"}	{changeTo: "Hvorfor trenger jeg dette?"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0009"}	{changeTo: "Å planlegge året ditt er en god vane. Det kan hjelpe deg til å bli mer bevisst på dine suksesser og sorger, samt få deg til å innse hvor mye som skan skje på kun ett år. Ved å lære fra fortiden kan du planlegge fremtiden på en måte som gjør at du ikke gjentar samme mønster, og få en større følelse av kontroll over ditt eget liv. "}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0009"}	{changeTo: "Å planlegge året ditt er en god vane. Det kan hjelpe deg til å bli mer bevisst på dine suksesser og sorger, samt få deg til å innse hvor mye som skan skje på kun ett år. Ved å lære fra fortiden kan du planlegge fremtiden på en måte som gjør at du ikke gjentar samme mønster, og få en større følelse av kontroll over ditt eget liv."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0010"}	{changeTo: "Hva trenger jeg?"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0011"}	{changeTo: "versjon 1 (ensom ulv versjon)"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0012"}	{changeTo: "Minumum en time med uforstyrret tid (til å planlegge året)"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0013"}	{changeTo: "minst tre timer med uforstyrret tid (til å se tilbake)"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0014"}	{changeTo: "en kalender over året som har gått."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0015"}	{changeTo: "en utskrift av denne arbeidsboken"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0016"}	{changeTo: "ærlighet og åpenhet "}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0016"}	{changeTo: "ærlighet og åpenhet"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0017"}	{changeTo: "Et utvalg av dine favorittpenner"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0018"}	{changeTo: "versjon 2 (gruppeversjon)"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0019"}	{changeTo: "En gruppe inspirerende personer (2-10 pers)"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0020"}	{changeTo: "minst 4 timer med kreativitet "}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0020"}	{changeTo: "minst 4 timer med kreativitet"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0021"}	{changeTo: "en kalender over året som har gått."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0022"}	{changeTo: "en utskrift av denne arbeidsboken"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0023"}	{changeTo: "ærlighet og åpenhet "}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0023"}	{changeTo: "ærlighet og åpenhet"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0024"}	{changeTo: "Et utvalg av dine favorittpenner"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0025"}	{changeTo: "Gjør deg klar"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0026"}	{changeTo: "Møt opp."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}

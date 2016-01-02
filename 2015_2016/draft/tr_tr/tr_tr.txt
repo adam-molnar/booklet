@@ -30,8 +30,8 @@ text	{findWhat: "T0029"}	{changeTo: "Tüm beklentilerini bırak."}	{includeFootn
 text	{findWhat: "T0030"}	{changeTo: "Hazır olduğunda başla."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0031"}	{changeTo: "Geçmiş yıl"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0032"}	{changeTo: "Takviminizi gözden geçirmek"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0033"}	{changeTo: "Geçmiş yılın takvimini hafta hafta gözden geçir. Eğer önemli bir etkinlik, aile ya da arkadaşlarla bir buluşma, veya önemli bir görev görürsen, buraya yaz. "}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0034"}	{changeTo: "Geçmiş yılın takvimini hafta hafta gözden geçir. Eğer önemli bir etkinlik, aile ya da arkadaşlarla bir buluşma, veya önemli bir görev görürsen, buraya not et. "}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0033"}	{changeTo: "Geçmiş yılın takvimini hafta hafta gözden geçir. Eğer önemli bir etkinlik, aile ya da arkadaşlarla bir buluşma, veya önemli bir görev görürsen, buraya yaz."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0034"}	{changeTo: "Geçmiş yılın takvimini hafta hafta gözden geçir. Eğer önemli bir etkinlik, aile ya da arkadaşlarla bir buluşma, veya önemli bir görev görürsen, buraya not et."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0035"}	{changeTo: "Geçmiş yıl"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0036"}	{changeTo: "Geçmiş yılım bunlarla ilgiliydi"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0037"}	{changeTo: "Geçmiş yılda bu alanlarda neler senin için en önemliydi*? Hangi olaylar ya da yaşananlar en belirgindi? Kısaca özetle."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
@@ -45,7 +45,7 @@ text	{findWhat: "T0044"}	{changeTo: "rahatlama, hobiler, yaratıcılık"}	{inclu
 text	{findWhat: "T0045"}	{changeTo: "sağlık, spor"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0046"}	{changeTo: "duygusal, ruhsal"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0047"}	{changeTo: "dilek listesi"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0048"}	{changeTo: "Bu unsurlar senin için önemli olan hereyse odur. Özellikle bir tanım yok. "}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0048"}	{changeTo: "Bu unsurlar senin için önemli olan hereyse odur. Özellikle bir tanım yok."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0049"}	{changeTo: "Eğer bu yıl her zaman istediğiniz bir şeyi gerçekleştirdiyseniz"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0050"}	{changeTo: "Geçmiş yıl"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0051"}	{changeTo: "Geçmiş yılım hakkında altı cümle"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
@@ -69,11 +69,11 @@ text	{findWhat: "T0068"}	{changeTo: "Geçen yıldan en güzel, en akılda kalıc
 text	{findWhat: "T0069"}	{changeTo: "Geçen yıldan en güzel, en akılda kalıcı, coşkulu anları anlat. Onları bu kağıda çiz. Nasıl hissettin? Yanında kim vardı? Ne yapıyordun? Ne tür kokular, sesler, ya da tatlar hatırlıyorsun?"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0070"}	{changeTo: "Geçmiş yıl"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0071"}	{changeTo: "En büyük üç başarım"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0072"}	{changeTo: "Geçen yıldaki en büyük üç başarını yaz. "}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0072"}	{changeTo: "Geçen yıldaki en büyük üç başarını yaz."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0073"}	{changeTo: "Bunları başarmak için ne yaptın?"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0074"}	{changeTo: "Bunları başarmana kim yardım etti? Nasıl?"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0075"}	{changeTo: "En büyük üç mücadelem"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0076"}	{changeTo: "Geçen yıldaki en büyük üç mücadeleni yaz. "}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0076"}	{changeTo: "Geçen yıldaki en büyük üç mücadeleni yaz."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0077"}	{changeTo: "Bu zorlukları aşmakta kim ya da ne yardım etti?"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0078"}	{changeTo: "Bu zorlukları aşarken kendin hakkında ne öğrendin?"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0079"}	{changeTo: "Geçmiş yıl"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
@@ -90,7 +90,7 @@ text	{findWhat: "T0089"}	{changeTo: "Üç kelimeyle geçen yıl"}	{includeFootno
 text	{findWhat: "T0090"}	{changeTo: "Geçen yılını tanımlayan üç kelime seç"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0091"}	{changeTo: "Geçen yılımın kitabı"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0092"}	{changeTo: "Geçen yılınla alakalı bir kitap yapıldı*. Başlığını yaz."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0093"}	{changeTo: "Yanlış biliyorsak ve seninki bir film yapıldıysa çok özür dileriz. "}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0093"}	{changeTo: "Yanlış biliyorsak ve seninki bir film yapıldıysa çok özür dileriz."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0094"}	{changeTo: "Geçen yılına elveda"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0095"}	{changeTo: "Eğer yazmak istediğin herhangi bir şey kaldıysa, ya da vedalaşmak istediğin herhangi biri, şimdi yap."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0096"}	{changeTo: "Eğer yazmak istediğin herhangi bir şey kaldıysa, ya da vedalaşmak istediğin herhangi biri, şimdi yap."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
@@ -107,8 +107,8 @@ text	{findWhat: "T0106"}	{changeTo: "Gelecek yıl"}	{includeFootnotes:true, incl
 text	{findWhat: "T0107"}	{changeTo: "2016"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0108"}	{changeTo: "Gelecek yıl"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0109"}	{changeTo: "Büyük hayaller kurmaya cesaret et"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0110"}	{changeTo: "Gelecek yıl neye benziyor? İdeal durumda neler olacak? Bu neden harika olacak? Yaz, çiz, beklentilerini bırak gitsinler ve hayal kurmaya cesaret et. "}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0111"}	{changeTo: "Gelecek yıl neye benziyor? İdeal durumda neler olacak? Bu neden harika olacak? Yaz, çiz, beklentilerini bırak gitsinler ve hayal kurmaya cesaret et. "}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0110"}	{changeTo: "Gelecek yıl neye benziyor? İdeal durumda neler olacak? Bu neden harika olacak? Yaz, çiz, beklentilerini bırak gitsinler ve hayal kurmaya cesaret et."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0111"}	{changeTo: "Gelecek yıl neye benziyor? İdeal durumda neler olacak? Bu neden harika olacak? Yaz, çiz, beklentilerini bırak gitsinler ve hayal kurmaya cesaret et."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0112"}	{changeTo: "Gelecek yıl"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0113"}	{changeTo: "Gelecek yılım bunlarla ilgili olacak"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0114"}	{changeTo: "Aşağıdaki alanlarda önündeki yılın en önemli unsurları neler, belirle*. Hangi olaylar en önemli olacak? Kısaca özetle."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
@@ -133,7 +133,7 @@ text	{findWhat: "T0132"}	{changeTo: "Gelecek yıl için sihirli üçlemeler"}	{i
 text	{findWhat: "T0133"}	{changeTo: "Kendi hakkımda bu üç şeyi seveceğim."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0134"}	{changeTo: "Bu üç şeyi bırakmaya hazırım."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0135"}	{changeTo: "En çok bu üç şeyi başarmak istiyorum."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0136"}	{changeTo: "Zor zamanlarımda en çok bu üç kişi beni ayakta tutan dayanaklarım olacak. "}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0136"}	{changeTo: "Zor zamanlarımda en çok bu üç kişi beni ayakta tutan dayanaklarım olacak."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0137"}	{changeTo: "Bu üç şeyi keşfetmeye cesaret edeceğim."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0138"}	{changeTo: "Bu üç şeye hayır demeye gücüm olacak."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0139"}	{changeTo: "Gelecek yıl"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
@@ -161,22 +161,22 @@ text	{findWhat: "T0160"}	{changeTo: "Gelecek yıl"}	{includeFootnotes:true, incl
 text	{findWhat: "T0161"}	{changeTo: "Bu yıl her şeyin mümkün olduğuna inanıyorum."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0162"}	{changeTo: "Tarih:"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0163"}	{changeTo: "imza"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0164"}	{changeTo: "Yılını planlamayı bitirdin. "}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0164"}	{changeTo: "Yılını planlamayı bitirdin."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0165"}	{changeTo: "Sonda iki küçük not:"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0166"}	{changeTo: "17. sayfayı koparıp görünür bir yere koymayı unutma. "}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0166"}	{changeTo: "17. sayfayı koparıp görünür bir yere koymayı unutma."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0167"}	{changeTo: "Eğer kitapçığı doldururken fotoğraf çektiysen, şu etiketleri kullanabilirsin:"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0168"}	{changeTo: "#yılpusulası #yearcompass"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0169"}	{changeTo: "Gelecek yıl"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0170"}	{changeTo: "YearCompass ve Invisible University International gönüllüleri tarafından hazırlanmıştır. "}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0170"}	{changeTo: "YearCompass ve Invisible University International gönüllüleri tarafından hazırlanmıştır."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0171"}	{changeTo: "http://yearcompass.com/tr"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0172"}	{changeTo: "Eğer birine Yıl planlama kitapçığı hediye etmek (ve amacımızı desteklemek) isterseniz bu bağlantıyı takip edin:"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0173"}	{changeTo: "http://yearcompass.com/shop"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0174"}	{changeTo: "Biz yerli Macarlarız ve bu kitapçık orjinal çalışmamızın çevirisidir. Eğer imla ve gramer hataları ya da olmayan ifadeler farkedeseniz yukarıdaki internet sitesinden bize haber vermenizi rica ederiz. "}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0174"}	{changeTo: "Biz yerli Macarlarız ve bu kitapçık orjinal çalışmamızın çevirisidir. Eğer imla ve gramer hataları ya da olmayan ifadeler farkedeseniz yukarıdaki internet sitesinden bize haber vermenizi rica ederiz."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0175"}	{changeTo: "Bu çalışma Creative Commons Alıntı-Gayriticari-LisansDevam 4.0 Uluslararası ile lisanslanmıştır."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0176"}	{changeTo: "Sizin için hatırlayacağız"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0177"}	{changeTo: "Cevaplarınız yalnızca boşluğa atılan bir çığlık değil. Onları sizin için saklıyoruz. Ama bunun için önce sizi hatırlamamız gerek. Lütfen oturum açın."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0178"}	{changeTo: "Başarınızı paylaşın"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0179"}	{changeTo: "YılPusulasını daha iyi hale getirmemize yardımcı ol. "}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0179"}	{changeTo: "YılPusulasını daha iyi hale getirmemize yardımcı ol."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0180"}	{changeTo: "Lütfen cevapladığınız soruları puanlayın."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0181"}	{changeTo: "Bize söylemek istediğiniz başka bir şey varsa"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0182"}	{changeTo: "Dil seç"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
@@ -209,7 +209,7 @@ text	{findWhat: "T0208"}	{changeTo: "Geçmiş yılını kapatmak ve sonrakini pl
 text	{findWhat: "T0209"}	{changeTo: "Hey, şu siteye bir gözat: online.yearcompass.com. 2015'i kapatmana ve 2016'yı planlamana yardımcı oluyor. Ben şimdi bitirdim ve harikaydı!"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0210"}	{changeTo: "Tüm cevaplarımı yazıcıdan çıkabilecek şekilde gör"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0211"}	{changeTo: "Kendi diline çevir"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0212"}	{changeTo: "ya da "}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0212"}	{changeTo: "ya da"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0213"}	{changeTo: "geribildirim bırak"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0214"}	{changeTo: "Beni YearCompass.com'a götür"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0215"}	{changeTo: "Cevaplarımı PDF dosyası olarak indir."}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
