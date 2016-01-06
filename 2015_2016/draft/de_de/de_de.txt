@@ -61,7 +61,7 @@ text	{findWhat: "T0060"}	{changeTo: "Worauf bist Du am meisten stolz?"}	{include
 text	{findWhat: "T0061"}	{changeTo: "Welche drei Menschen haben dich am meisten beeinflusst?"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0062"}	{changeTo: "Welche drei Menschen hast Du am meisten beeinflusst?"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0063"}	{changeTo: "Was hast Du nicht geschafft?"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
-text	{findWhat: "T0064"}	{changeTo: "Was ist das beste, was Du über dich selbst erfahren oder enteckt hast?"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
+text	{findWhat: "T0064"}	{changeTo: "Was ist das beste, was Du über dich selbst erfahren oder entdeckt hast?"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0065"}	{changeTo: "Wofür bist Du am meisten dankbar?"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0066"}	{changeTo: "Das vergangene Jahr"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
 text	{findWhat: "T0067"}	{changeTo: "Die besten Momente"}	{includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
